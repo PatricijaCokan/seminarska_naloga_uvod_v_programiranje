@@ -2,7 +2,7 @@
   {
     "znamka": "Seat",
     "model": "Alhambra",
-    "cena_stevilka": "15.980",
+    "cena_stevilka": "15980",
     "prevozenih_km": "165890",
     "kWh": null,
     "prostornina": "1968",
@@ -15,7 +15,7 @@
   {
     "znamka": "Peugeot",
     "model": "5008",
-    "cena_stevilka": "15.600",
+    "cena_stevilka": "15600",
     "prevozenih_km": "146348",
     "kWh": null,
     "prostornina": "1499",
@@ -28,7 +28,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "Vito",
-    "cena_stevilka": "2.800",
+    "cena_stevilka": "2800",
     "prevozenih_km": "200800",
     "kWh": null,
     "prostornina": "2148",
@@ -41,7 +41,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "12.998",
+    "cena_stevilka": "12998",
     "prevozenih_km": "188804",
     "kWh": null,
     "prostornina": "1968",
@@ -80,7 +80,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Tiguan",
-    "cena_stevilka": "19.990",
+    "cena_stevilka": "19990",
     "prevozenih_km": "83900",
     "kWh": null,
     "prostornina": "1498",
@@ -93,7 +93,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Arteon",
-    "cena_stevilka": "34.750",
+    "cena_stevilka": "34750",
     "prevozenih_km": "100750",
     "kWh": null,
     "prostornina": "1968",
@@ -106,7 +106,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3:",
-    "cena_stevilka": "33.990",
+    "cena_stevilka": "33990",
     "prevozenih_km": "88196",
     "kWh": null,
     "prostornina": "1998",
@@ -119,7 +119,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "12.500",
+    "cena_stevilka": "12500",
     "prevozenih_km": "162000",
     "kWh": null,
     "prostornina": "1598",
@@ -132,7 +132,7 @@
   {
     "znamka": "Renault",
     "model": "Megane",
-    "cena_stevilka": "1.550",
+    "cena_stevilka": "1550",
     "prevozenih_km": "220000",
     "kWh": null,
     "prostornina": "1870",
@@ -158,7 +158,7 @@
   {
     "znamka": "Hyundai",
     "model": "ix35",
-    "cena_stevilka": "9.999",
+    "cena_stevilka": "9999",
     "prevozenih_km": "99000",
     "kWh": null,
     "prostornina": "1591",
@@ -171,7 +171,7 @@
   {
     "znamka": "BMW",
     "model": "serija X1:",
-    "cena_stevilka": "21.450",
+    "cena_stevilka": "21450",
     "prevozenih_km": "160500",
     "kWh": null,
     "prostornina": "1496",
@@ -184,7 +184,7 @@
   {
     "znamka": "Chevrolet",
     "model": "Cruze",
-    "cena_stevilka": "3.990",
+    "cena_stevilka": "3990",
     "prevozenih_km": "140000",
     "kWh": null,
     "prostornina": "1598",
@@ -197,7 +197,7 @@
   {
     "znamka": "Peugeot",
     "model": "207",
-    "cena_stevilka": "3.190",
+    "cena_stevilka": "3190",
     "prevozenih_km": "158000",
     "kWh": null,
     "prostornina": "1397",
@@ -223,7 +223,7 @@
   {
     "znamka": "Honda",
     "model": "Jazz",
-    "cena_stevilka": "3.250",
+    "cena_stevilka": "3250",
     "prevozenih_km": "155700",
     "kWh": null,
     "prostornina": "1339",
@@ -262,7 +262,7 @@
   {
     "znamka": "Toyota",
     "model": "RAV4",
-    "cena_stevilka": "14.472",
+    "cena_stevilka": "14472",
     "prevozenih_km": "165000",
     "kWh": null,
     "prostornina": "2231",
@@ -275,7 +275,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "13.590",
+    "cena_stevilka": "13590",
     "prevozenih_km": "221000",
     "kWh": null,
     "prostornina": "1995",
@@ -288,7 +288,7 @@
   {
     "znamka": "Fiat",
     "model": "500",
-    "cena_stevilka": "12.950",
+    "cena_stevilka": "12950",
     "prevozenih_km": "16354",
     "kWh": "70",
     "prostornina": null,
@@ -301,7 +301,7 @@
   {
     "znamka": "BMW",
     "model": "serija X3:",
-    "cena_stevilka": "29.990",
+    "cena_stevilka": "29990",
     "prevozenih_km": "88900",
     "kWh": null,
     "prostornina": "1995",
@@ -314,7 +314,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "14.490",
+    "cena_stevilka": "14490",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1968",
@@ -327,7 +327,7 @@
   {
     "znamka": "BMW",
     "model": "serija X5:",
-    "cena_stevilka": "47.990",
+    "cena_stevilka": "47990",
     "prevozenih_km": "127000",
     "kWh": null,
     "prostornina": "2993",
@@ -340,7 +340,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "32.502",
+    "cena_stevilka": "32502",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1968",
@@ -353,7 +353,7 @@
   {
     "znamka": "Audi",
     "model": "Q3",
-    "cena_stevilka": "30.990",
+    "cena_stevilka": "30990",
     "prevozenih_km": "98775",
     "kWh": null,
     "prostornina": "1968",
@@ -366,7 +366,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "25.390",
+    "cena_stevilka": "25390",
     "prevozenih_km": "148300",
     "kWh": null,
     "prostornina": "1968",
@@ -379,7 +379,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Tiguan",
-    "cena_stevilka": "24.300",
+    "cena_stevilka": "24300",
     "prevozenih_km": "141000",
     "kWh": null,
     "prostornina": "1968",
@@ -392,7 +392,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLC",
-    "cena_stevilka": "28.990",
+    "cena_stevilka": "28990",
     "prevozenih_km": "228000",
     "kWh": null,
     "prostornina": "1950",
@@ -405,7 +405,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "16.700",
+    "cena_stevilka": "16700",
     "prevozenih_km": "165855",
     "kWh": null,
     "prostornina": "1968",
@@ -431,7 +431,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "4.290",
+    "cena_stevilka": "4290",
     "prevozenih_km": "202000",
     "kWh": null,
     "prostornina": "1595",
@@ -470,7 +470,7 @@
   {
     "znamka": "Mazda",
     "model": "Mazda6",
-    "cena_stevilka": "2.700",
+    "cena_stevilka": "2700",
     "prevozenih_km": "215000",
     "kWh": null,
     "prostornina": "1998",
@@ -483,7 +483,7 @@
   {
     "znamka": "Hyundai",
     "model": "i30",
-    "cena_stevilka": "28.990",
+    "cena_stevilka": "28990",
     "prevozenih_km": "70000",
     "kWh": null,
     "prostornina": "1998",
@@ -496,7 +496,7 @@
   {
     "znamka": "BMW",
     "model": "serija X3:",
-    "cena_stevilka": "24.999",
+    "cena_stevilka": "24999",
     "prevozenih_km": "139000",
     "kWh": null,
     "prostornina": "1995",
@@ -509,7 +509,7 @@
   {
     "znamka": "Audi",
     "model": "A5",
-    "cena_stevilka": "12.999",
+    "cena_stevilka": "12999",
     "prevozenih_km": "224358",
     "kWh": null,
     "prostornina": "1968",
@@ -522,7 +522,7 @@
   {
     "znamka": "Ford",
     "model": "Mondeo",
-    "cena_stevilka": "5.490",
+    "cena_stevilka": "5490",
     "prevozenih_km": "210000",
     "kWh": null,
     "prostornina": "1996",
@@ -548,7 +548,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "13.990",
+    "cena_stevilka": "13990",
     "prevozenih_km": "106200",
     "kWh": null,
     "prostornina": "1598",
@@ -561,7 +561,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "19.850",
+    "cena_stevilka": "19850",
     "prevozenih_km": "171000",
     "kWh": null,
     "prostornina": "1968",
@@ -574,7 +574,7 @@
   {
     "znamka": "Audi",
     "model": "A6",
-    "cena_stevilka": "19.890",
+    "cena_stevilka": "19890",
     "prevozenih_km": "205000",
     "kWh": null,
     "prostornina": "2967",
@@ -587,7 +587,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "17.900",
+    "cena_stevilka": "17900",
     "prevozenih_km": "98200",
     "kWh": null,
     "prostornina": "1498",
@@ -600,7 +600,7 @@
   {
     "znamka": "Jeep",
     "model": "Renegade",
-    "cena_stevilka": "18.550",
+    "cena_stevilka": "18550",
     "prevozenih_km": "79252",
     "kWh": null,
     "prostornina": "1332",
@@ -613,7 +613,7 @@
   {
     "znamka": "Opel",
     "model": "Astra",
-    "cena_stevilka": "6.490",
+    "cena_stevilka": "6490",
     "prevozenih_km": "189000",
     "kWh": null,
     "prostornina": "1598",
@@ -626,7 +626,7 @@
   {
     "znamka": "Opel",
     "model": "Astra",
-    "cena_stevilka": "6.490",
+    "cena_stevilka": "6490",
     "prevozenih_km": "189000",
     "kWh": null,
     "prostornina": "1598",
@@ -639,7 +639,7 @@
   {
     "znamka": "MG",
     "model": "EHS",
-    "cena_stevilka": "27.800",
+    "cena_stevilka": "27800",
     "prevozenih_km": "48870",
     "kWh": null,
     "prostornina": "1490",
@@ -652,7 +652,7 @@
   {
     "znamka": "Hyundai",
     "model": "i20",
-    "cena_stevilka": "12.490",
+    "cena_stevilka": "12490",
     "prevozenih_km": "57000",
     "kWh": null,
     "prostornina": "1197",
@@ -663,9 +663,9 @@
     "baterija_kWh": null
   },
   {
-    "znamka": "Alfa",
-    "model": "Romeo",
-    "cena_stevilka": "18.290",
+    "znamka": "Alfa Romeo",
+    "model": "Stelvio",
+    "cena_stevilka": "18290",
     "prevozenih_km": "220610",
     "kWh": null,
     "prostornina": "2143",
@@ -691,7 +691,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Tiguan",
-    "cena_stevilka": "18.990",
+    "cena_stevilka": "18990",
     "prevozenih_km": "168000",
     "kWh": null,
     "prostornina": "1968",
@@ -704,7 +704,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "20.690",
+    "cena_stevilka": "20690",
     "prevozenih_km": "172761",
     "kWh": null,
     "prostornina": "1968",
@@ -717,7 +717,7 @@
   {
     "znamka": "Fiat",
     "model": "Tipo",
-    "cena_stevilka": "7.900",
+    "cena_stevilka": "7900",
     "prevozenih_km": "52200",
     "kWh": null,
     "prostornina": "1368",
@@ -730,7 +730,7 @@
   {
     "znamka": "BMW",
     "model": "serija 1:",
-    "cena_stevilka": "14.990",
+    "cena_stevilka": "14990",
     "prevozenih_km": "179000",
     "kWh": null,
     "prostornina": "1998",
@@ -756,7 +756,7 @@
   {
     "znamka": "Land",
     "model": "Rover",
-    "cena_stevilka": "24.990",
+    "cena_stevilka": "24990",
     "prevozenih_km": "175000",
     "kWh": null,
     "prostornina": "1999",
@@ -769,7 +769,7 @@
   {
     "znamka": "Audi",
     "model": "Q5",
-    "cena_stevilka": "59.000",
+    "cena_stevilka": "59000",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1984",
@@ -782,7 +782,7 @@
   {
     "znamka": "Škoda",
     "model": "Fabia",
-    "cena_stevilka": "7.490",
+    "cena_stevilka": "7490",
     "prevozenih_km": "199970",
     "kWh": null,
     "prostornina": "999",
@@ -795,7 +795,7 @@
   {
     "znamka": "Citroën",
     "model": "C5",
-    "cena_stevilka": "14.566",
+    "cena_stevilka": "14566",
     "prevozenih_km": "138000",
     "kWh": null,
     "prostornina": "1499",
@@ -808,7 +808,7 @@
   {
     "znamka": "BMW",
     "model": "i3",
-    "cena_stevilka": "18.999",
+    "cena_stevilka": "18999",
     "prevozenih_km": "55000",
     "kWh": "125",
     "prostornina": null,
@@ -821,7 +821,7 @@
   {
     "znamka": "Kia",
     "model": "Ceed",
-    "cena_stevilka": "23.599",
+    "cena_stevilka": "23599",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1482",
@@ -834,7 +834,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "6.800",
+    "cena_stevilka": "6800",
     "prevozenih_km": "240000",
     "kWh": null,
     "prostornina": "1598",
@@ -860,7 +860,7 @@
   {
     "znamka": "Ford",
     "model": "Tourneo",
-    "cena_stevilka": "16.000",
+    "cena_stevilka": "16000",
     "prevozenih_km": "145806",
     "kWh": null,
     "prostornina": "1499",
@@ -873,7 +873,7 @@
   {
     "znamka": "Dacia",
     "model": "Bigster",
-    "cena_stevilka": "25.460",
+    "cena_stevilka": "25460",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1199",
@@ -886,7 +886,7 @@
   {
     "znamka": "Opel",
     "model": "Insignia",
-    "cena_stevilka": "12.500",
+    "cena_stevilka": "12500",
     "prevozenih_km": "149950",
     "kWh": null,
     "prostornina": "1956",
@@ -912,7 +912,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "16.950",
+    "cena_stevilka": "16950",
     "prevozenih_km": "194000",
     "kWh": null,
     "prostornina": "1968",
@@ -925,7 +925,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "2.000",
+    "cena_stevilka": "2000",
     "prevozenih_km": "189000",
     "kWh": null,
     "prostornina": "1397",
@@ -951,7 +951,7 @@
   {
     "znamka": "Opel",
     "model": "Corsa",
-    "cena_stevilka": "5.590",
+    "cena_stevilka": "5590",
     "prevozenih_km": "142054",
     "kWh": null,
     "prostornina": "1398",
@@ -1003,7 +1003,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "11.900",
+    "cena_stevilka": "11900",
     "prevozenih_km": "206300",
     "kWh": null,
     "prostornina": "1968",
@@ -1042,7 +1042,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "19.999",
+    "cena_stevilka": "19999",
     "prevozenih_km": "155000",
     "kWh": null,
     "prostornina": "1968",
@@ -1055,7 +1055,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "34.980",
+    "cena_stevilka": "34980",
     "prevozenih_km": "145679",
     "kWh": null,
     "prostornina": "1995",
@@ -1094,7 +1094,7 @@
   {
     "znamka": "BMW",
     "model": "serija 8",
-    "cena_stevilka": "83.880",
+    "cena_stevilka": "83880",
     "prevozenih_km": "15284",
     "kWh": null,
     "prostornina": "4395",
@@ -1107,7 +1107,7 @@
   {
     "znamka": "Volvo",
     "model": "V60",
-    "cena_stevilka": "10.790",
+    "cena_stevilka": "10790",
     "prevozenih_km": "199752",
     "kWh": null,
     "prostornina": "1969",
@@ -1120,7 +1120,7 @@
   {
     "znamka": "Audi",
     "model": "A5",
-    "cena_stevilka": "9.390",
+    "cena_stevilka": "9390",
     "prevozenih_km": "243855",
     "kWh": null,
     "prostornina": "1798",
@@ -1146,7 +1146,7 @@
   {
     "znamka": "Kia",
     "model": "Ceed",
-    "cena_stevilka": "5.500",
+    "cena_stevilka": "5500",
     "prevozenih_km": "190838",
     "kWh": null,
     "prostornina": "1396",
@@ -1248,8 +1248,8 @@
     "baterija_kWh": null
   },
   {
-    "znamka": "Alfa",
-    "model": "Romeo",
+    "znamka": "Alfa Romeo",
+    "model": "Spider",
     "cena_stevilka": null,
     "prevozenih_km": "140000",
     "kWh": null,
@@ -1926,7 +1926,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Polo",
-    "cena_stevilka": "1.700",
+    "cena_stevilka": "1700",
     "prevozenih_km": "186000",
     "kWh": null,
     "prostornina": "1390",
@@ -1991,7 +1991,7 @@
   {
     "znamka": "Peugeot",
     "model": "508",
-    "cena_stevilka": "14.650",
+    "cena_stevilka": "14650",
     "prevozenih_km": "106854",
     "kWh": null,
     "prostornina": "1199",
@@ -2004,7 +2004,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "10.990",
+    "cena_stevilka": "10990",
     "prevozenih_km": "247880",
     "kWh": null,
     "prostornina": "1968",
@@ -2017,7 +2017,7 @@
   {
     "znamka": "Renault",
     "model": "Scenic",
-    "cena_stevilka": "5.390",
+    "cena_stevilka": "5390",
     "prevozenih_km": "137238",
     "kWh": null,
     "prostornina": "1598",
@@ -2030,7 +2030,7 @@
   {
     "znamka": "Renault",
     "model": "Talisman",
-    "cena_stevilka": "8.990",
+    "cena_stevilka": "8990",
     "prevozenih_km": "227000",
     "kWh": null,
     "prostornina": "1598",
@@ -2056,7 +2056,7 @@
   {
     "znamka": "Dacia",
     "model": "Sandero",
-    "cena_stevilka": "14.060",
+    "cena_stevilka": "14060",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "999",
@@ -2069,7 +2069,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Arteon",
-    "cena_stevilka": "29.880",
+    "cena_stevilka": "29880",
     "prevozenih_km": "143880",
     "kWh": null,
     "prostornina": "1968",
@@ -2082,7 +2082,7 @@
   {
     "znamka": "Ford",
     "model": "C-Max",
-    "cena_stevilka": "4.190",
+    "cena_stevilka": "4190",
     "prevozenih_km": "189000",
     "kWh": null,
     "prostornina": "1560",
@@ -2095,7 +2095,7 @@
   {
     "znamka": "Opel",
     "model": "Corsa",
-    "cena_stevilka": "17.400",
+    "cena_stevilka": "17400",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1199",
@@ -2108,7 +2108,7 @@
   {
     "znamka": "Fiat",
     "model": "500C",
-    "cena_stevilka": "8.980",
+    "cena_stevilka": "8980",
     "prevozenih_km": "60120",
     "kWh": null,
     "prostornina": "1242",
@@ -2121,7 +2121,7 @@
   {
     "znamka": "BMW",
     "model": "M3",
-    "cena_stevilka": "79.850",
+    "cena_stevilka": "79850",
     "prevozenih_km": "46850",
     "kWh": null,
     "prostornina": "2993",
@@ -2147,7 +2147,7 @@
   {
     "znamka": "Dongfeng",
     "model": "Box",
-    "cena_stevilka": "24.900",
+    "cena_stevilka": "24900",
     "prevozenih_km": null,
     "kWh": "70",
     "prostornina": null,
@@ -2160,7 +2160,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "10.000",
+    "cena_stevilka": "10000",
     "prevozenih_km": "238000",
     "kWh": null,
     "prostornina": "2143",
@@ -2186,7 +2186,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "16.500",
+    "cena_stevilka": "16500",
     "prevozenih_km": "47239",
     "kWh": null,
     "prostornina": "1968",
@@ -2199,7 +2199,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "20.990",
+    "cena_stevilka": "20990",
     "prevozenih_km": "136500",
     "kWh": null,
     "prostornina": "1968",
@@ -2212,7 +2212,7 @@
   {
     "znamka": "Audi",
     "model": "Q5",
-    "cena_stevilka": "25.490",
+    "cena_stevilka": "25490",
     "prevozenih_km": "181744",
     "kWh": null,
     "prostornina": "1968",
@@ -2238,7 +2238,7 @@
   {
     "znamka": "Citroën",
     "model": "C-Elysee",
-    "cena_stevilka": "6.690",
+    "cena_stevilka": "6690",
     "prevozenih_km": "136000",
     "kWh": null,
     "prostornina": "1560",
@@ -2251,7 +2251,7 @@
   {
     "znamka": "Kia",
     "model": "Sportage",
-    "cena_stevilka": "8.490",
+    "cena_stevilka": "8490",
     "prevozenih_km": "144801",
     "kWh": null,
     "prostornina": "1685",
@@ -2277,7 +2277,7 @@
   {
     "znamka": "Jeep",
     "model": "Cherokee",
-    "cena_stevilka": "17.990",
+    "cena_stevilka": "17990",
     "prevozenih_km": "178000",
     "kWh": null,
     "prostornina": "2174",
@@ -2290,7 +2290,7 @@
   {
     "znamka": "Smart",
     "model": "fortwo",
-    "cena_stevilka": "7.990",
+    "cena_stevilka": "7990",
     "prevozenih_km": "92000",
     "kWh": null,
     "prostornina": "999",
@@ -2303,7 +2303,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "21.999",
+    "cena_stevilka": "21999",
     "prevozenih_km": "166000",
     "kWh": null,
     "prostornina": "2993",
@@ -2329,7 +2329,7 @@
   {
     "znamka": "BMW",
     "model": "serija 2",
-    "cena_stevilka": "14.990",
+    "cena_stevilka": "14990",
     "prevozenih_km": "147512",
     "kWh": null,
     "prostornina": "1995",
@@ -2355,7 +2355,7 @@
   {
     "znamka": "Fiat",
     "model": "500C",
-    "cena_stevilka": "10.680",
+    "cena_stevilka": "10680",
     "prevozenih_km": "41750",
     "kWh": null,
     "prostornina": "999",
@@ -2368,7 +2368,7 @@
   {
     "znamka": "Škoda",
     "model": "Karoq",
-    "cena_stevilka": "33.990",
+    "cena_stevilka": "33990",
     "prevozenih_km": "2900",
     "kWh": null,
     "prostornina": "1498",
@@ -2381,7 +2381,7 @@
   {
     "znamka": "Seat",
     "model": "Leon",
-    "cena_stevilka": "16.450",
+    "cena_stevilka": "16450",
     "prevozenih_km": "135000",
     "kWh": null,
     "prostornina": "1968",
@@ -2394,7 +2394,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "13.780",
+    "cena_stevilka": "13780",
     "prevozenih_km": "198203",
     "kWh": null,
     "prostornina": "1598",
@@ -2420,7 +2420,7 @@
   {
     "znamka": "Opel",
     "model": "Corsa",
-    "cena_stevilka": "3.490",
+    "cena_stevilka": "3490",
     "prevozenih_km": "102000",
     "kWh": null,
     "prostornina": "1398",
@@ -2446,7 +2446,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "21.880",
+    "cena_stevilka": "21880",
     "prevozenih_km": "155170",
     "kWh": null,
     "prostornina": "1968",
@@ -2459,7 +2459,7 @@
   {
     "znamka": "Peugeot",
     "model": "2008",
-    "cena_stevilka": "13.290",
+    "cena_stevilka": "13290",
     "prevozenih_km": "44490",
     "kWh": null,
     "prostornina": "1199",
@@ -2485,7 +2485,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "28.790",
+    "cena_stevilka": "28790",
     "prevozenih_km": "41200",
     "kWh": null,
     "prostornina": "1984",
@@ -2498,7 +2498,7 @@
   {
     "znamka": "Audi",
     "model": "RS6",
-    "cena_stevilka": "48.999",
+    "cena_stevilka": "48999",
     "prevozenih_km": "161000",
     "kWh": null,
     "prostornina": "3993",
@@ -2511,7 +2511,7 @@
   {
     "znamka": "Toyota",
     "model": "RAV4",
-    "cena_stevilka": "14.990",
+    "cena_stevilka": "14990",
     "prevozenih_km": "165000",
     "kWh": null,
     "prostornina": "1998",
@@ -2524,7 +2524,7 @@
   {
     "znamka": "Peugeot",
     "model": "5008",
-    "cena_stevilka": "2.800",
+    "cena_stevilka": "2800",
     "prevozenih_km": "220000",
     "kWh": null,
     "prostornina": "1560",
@@ -2537,7 +2537,7 @@
   {
     "znamka": "Škoda",
     "model": "Superb",
-    "cena_stevilka": "11.945",
+    "cena_stevilka": "11945",
     "prevozenih_km": "249856",
     "kWh": null,
     "prostornina": "1968",
@@ -2550,7 +2550,7 @@
   {
     "znamka": "Peugeot",
     "model": "2008",
-    "cena_stevilka": "8.500",
+    "cena_stevilka": "8500",
     "prevozenih_km": "60000",
     "kWh": null,
     "prostornina": "1199",
@@ -2563,7 +2563,7 @@
   {
     "znamka": "Fiat",
     "model": "500C",
-    "cena_stevilka": "6.990",
+    "cena_stevilka": "6990",
     "prevozenih_km": "119000",
     "kWh": null,
     "prostornina": "875",
@@ -2576,7 +2576,7 @@
   {
     "znamka": "Ford",
     "model": "Mondeo",
-    "cena_stevilka": "6.499",
+    "cena_stevilka": "6499",
     "prevozenih_km": "139700",
     "kWh": null,
     "prostornina": "1596",
@@ -2589,7 +2589,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "10.840",
+    "cena_stevilka": "10840",
     "prevozenih_km": "199321",
     "kWh": null,
     "prostornina": "1995",
@@ -2602,7 +2602,7 @@
   {
     "znamka": "Volkswagen",
     "model": "T-Roc",
-    "cena_stevilka": "17.495",
+    "cena_stevilka": "17495",
     "prevozenih_km": "76490",
     "kWh": null,
     "prostornina": "1598",
@@ -2615,7 +2615,7 @@
   {
     "znamka": "Audi",
     "model": "A3",
-    "cena_stevilka": "12.945",
+    "cena_stevilka": "12945",
     "prevozenih_km": "199741",
     "kWh": null,
     "prostornina": "1968",
@@ -2628,7 +2628,7 @@
   {
     "znamka": "Dacia",
     "model": "Lodgy",
-    "cena_stevilka": "6.850",
+    "cena_stevilka": "6850",
     "prevozenih_km": "165002",
     "kWh": null,
     "prostornina": "1198",
@@ -2641,7 +2641,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Fox",
-    "cena_stevilka": "1.200",
+    "cena_stevilka": "1200",
     "prevozenih_km": "175000",
     "kWh": null,
     "prostornina": "1390",
@@ -2654,7 +2654,7 @@
   {
     "znamka": "Opel",
     "model": "Insignia",
-    "cena_stevilka": "1.600",
+    "cena_stevilka": "1600",
     "prevozenih_km": "214000",
     "kWh": null,
     "prostornina": "1956",
@@ -2667,7 +2667,7 @@
   {
     "znamka": "Hyundai",
     "model": "Santa",
-    "cena_stevilka": "1.000",
+    "cena_stevilka": "1000",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "2188",
@@ -2680,7 +2680,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "3.990",
+    "cena_stevilka": "3990",
     "prevozenih_km": "221737",
     "kWh": null,
     "prostornina": "1896",
@@ -2693,7 +2693,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "6.000",
+    "cena_stevilka": "6000",
     "prevozenih_km": "229282",
     "kWh": null,
     "prostornina": "1968",
@@ -2732,7 +2732,7 @@
   {
     "znamka": "Hyundai",
     "model": "ix20",
-    "cena_stevilka": "7.300",
+    "cena_stevilka": "7300",
     "prevozenih_km": "112000",
     "kWh": null,
     "prostornina": "1396",
@@ -2758,7 +2758,7 @@
   {
     "znamka": "Renault",
     "model": "Modus",
-    "cena_stevilka": "2.300",
+    "cena_stevilka": "2300",
     "prevozenih_km": "200000",
     "kWh": null,
     "prostornina": "1149",
@@ -2771,7 +2771,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "5.500",
+    "cena_stevilka": "5500",
     "prevozenih_km": "200500",
     "kWh": null,
     "prostornina": "1598",
@@ -2784,7 +2784,7 @@
   {
     "znamka": "Toyota",
     "model": "Prius",
-    "cena_stevilka": "15.800",
+    "cena_stevilka": "15800",
     "prevozenih_km": "68000",
     "kWh": null,
     "prostornina": "1798",
@@ -2797,7 +2797,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "21.990",
+    "cena_stevilka": "21990",
     "prevozenih_km": "165000",
     "kWh": null,
     "prostornina": "1968",
@@ -2810,7 +2810,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Touran",
-    "cena_stevilka": "16.989",
+    "cena_stevilka": "16989",
     "prevozenih_km": "169800",
     "kWh": null,
     "prostornina": "1968",
@@ -2823,7 +2823,7 @@
   {
     "znamka": "Porsche",
     "model": "Cayenne",
-    "cena_stevilka": "55.888",
+    "cena_stevilka": "55888",
     "prevozenih_km": "106788",
     "kWh": null,
     "prostornina": "2894",
@@ -2836,7 +2836,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "9.990",
+    "cena_stevilka": "9990",
     "prevozenih_km": "68000",
     "kWh": null,
     "prostornina": "1199",
@@ -2849,7 +2849,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "15.950",
+    "cena_stevilka": "15950",
     "prevozenih_km": "208925",
     "kWh": null,
     "prostornina": "1598",
@@ -2862,7 +2862,7 @@
   {
     "znamka": "Ford",
     "model": "Fiesta",
-    "cena_stevilka": "15.500",
+    "cena_stevilka": "15500",
     "prevozenih_km": "68000",
     "kWh": null,
     "prostornina": "1497",
@@ -2875,7 +2875,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "CLA-Razred",
-    "cena_stevilka": "44.950",
+    "cena_stevilka": "44950",
     "prevozenih_km": "93000",
     "kWh": null,
     "prostornina": "1991",
@@ -2888,7 +2888,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "26.500",
+    "cena_stevilka": "26500",
     "prevozenih_km": "117000",
     "kWh": null,
     "prostornina": "2993",
@@ -2914,7 +2914,7 @@
   {
     "znamka": "BMW",
     "model": "serija 1:",
-    "cena_stevilka": "8.100",
+    "cena_stevilka": "8100",
     "prevozenih_km": "227000",
     "kWh": null,
     "prostornina": "1995",
@@ -2940,7 +2940,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Scirocco",
-    "cena_stevilka": "6.290",
+    "cena_stevilka": "6290",
     "prevozenih_km": "211550",
     "kWh": null,
     "prostornina": "1390",
@@ -2953,7 +2953,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3:",
-    "cena_stevilka": "29.990",
+    "cena_stevilka": "29990",
     "prevozenih_km": "163913",
     "kWh": null,
     "prostornina": "1998",
@@ -2966,7 +2966,7 @@
   {
     "znamka": "Fiat",
     "model": "Doblo",
-    "cena_stevilka": "15.990",
+    "cena_stevilka": "15990",
     "prevozenih_km": "48106",
     "kWh": null,
     "prostornina": "1598",
@@ -2992,7 +2992,7 @@
   {
     "znamka": "BMW",
     "model": "serija X5:",
-    "cena_stevilka": "49.990",
+    "cena_stevilka": "49990",
     "prevozenih_km": "158490",
     "kWh": null,
     "prostornina": "2993",
@@ -3005,7 +3005,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "16.490",
+    "cena_stevilka": "16490",
     "prevozenih_km": "210640",
     "kWh": null,
     "prostornina": "2143",
@@ -3031,7 +3031,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "10.989",
+    "cena_stevilka": "10989",
     "prevozenih_km": "226400",
     "kWh": null,
     "prostornina": "1968",
@@ -3044,7 +3044,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "9.000",
+    "cena_stevilka": "9000",
     "prevozenih_km": "91000",
     "kWh": null,
     "prostornina": "1199",
@@ -3057,7 +3057,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "7.200",
+    "cena_stevilka": "7200",
     "prevozenih_km": "215998",
     "kWh": null,
     "prostornina": "1598",
@@ -3070,7 +3070,7 @@
   {
     "znamka": "Renault",
     "model": "Clio",
-    "cena_stevilka": "1.690",
+    "cena_stevilka": "1690",
     "prevozenih_km": "122000",
     "kWh": null,
     "prostornina": "1461",
@@ -3083,7 +3083,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "11.990",
+    "cena_stevilka": "11990",
     "prevozenih_km": "172374",
     "kWh": null,
     "prostornina": "1968",
@@ -3096,7 +3096,7 @@
   {
     "znamka": "Dacia",
     "model": "Duster",
-    "cena_stevilka": "16.850",
+    "cena_stevilka": "16850",
     "prevozenih_km": "34639",
     "kWh": null,
     "prostornina": "1461",
@@ -3122,7 +3122,7 @@
   {
     "znamka": "Seat",
     "model": "Leon",
-    "cena_stevilka": "16.450",
+    "cena_stevilka": "16450",
     "prevozenih_km": "135000",
     "kWh": null,
     "prostornina": "1968",
@@ -3135,7 +3135,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "13.780",
+    "cena_stevilka": "13780",
     "prevozenih_km": "198203",
     "kWh": null,
     "prostornina": "1598",
@@ -3161,7 +3161,7 @@
   {
     "znamka": "Opel",
     "model": "Corsa",
-    "cena_stevilka": "3.490",
+    "cena_stevilka": "3490",
     "prevozenih_km": "102000",
     "kWh": null,
     "prostornina": "1398",
@@ -3187,7 +3187,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "21.880",
+    "cena_stevilka": "21880",
     "prevozenih_km": "155170",
     "kWh": null,
     "prostornina": "1968",
@@ -3200,7 +3200,7 @@
   {
     "znamka": "Peugeot",
     "model": "2008",
-    "cena_stevilka": "13.290",
+    "cena_stevilka": "13290",
     "prevozenih_km": "44490",
     "kWh": null,
     "prostornina": "1199",
@@ -3226,7 +3226,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "28.790",
+    "cena_stevilka": "28790",
     "prevozenih_km": "41200",
     "kWh": null,
     "prostornina": "1984",
@@ -3239,7 +3239,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3:",
-    "cena_stevilka": "15.990",
+    "cena_stevilka": "15990",
     "prevozenih_km": "164252",
     "kWh": null,
     "prostornina": "1995",
@@ -3278,7 +3278,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLC-Razred",
-    "cena_stevilka": "56.199",
+    "cena_stevilka": "56199",
     "prevozenih_km": "100",
     "kWh": null,
     "prostornina": "1993",
@@ -3291,7 +3291,7 @@
   {
     "znamka": "BMW",
     "model": "serija 2",
-    "cena_stevilka": "13.900",
+    "cena_stevilka": "13900",
     "prevozenih_km": "154000",
     "kWh": null,
     "prostornina": "1998",
@@ -3304,7 +3304,7 @@
   {
     "znamka": "Fiat",
     "model": "500",
-    "cena_stevilka": "8.980",
+    "cena_stevilka": "8980",
     "prevozenih_km": "60000",
     "kWh": null,
     "prostornina": "1242",
@@ -3343,7 +3343,7 @@
   {
     "znamka": "Forthing",
     "model": "T5",
-    "cena_stevilka": "28.900",
+    "cena_stevilka": "28900",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1499",
@@ -3356,7 +3356,7 @@
   {
     "znamka": "Opel",
     "model": "Corsa",
-    "cena_stevilka": "20.200",
+    "cena_stevilka": "20200",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1199",
@@ -3369,7 +3369,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "22.990",
+    "cena_stevilka": "22990",
     "prevozenih_km": "189000",
     "kWh": null,
     "prostornina": "1998",
@@ -3382,7 +3382,7 @@
   {
     "znamka": "BMW",
     "model": "serija 1:",
-    "cena_stevilka": "16.877",
+    "cena_stevilka": "16877",
     "prevozenih_km": "138000",
     "kWh": null,
     "prostornina": "1499",
@@ -3395,7 +3395,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "CLA",
-    "cena_stevilka": "26.960",
+    "cena_stevilka": "26960",
     "prevozenih_km": "179894",
     "kWh": null,
     "prostornina": "1950",
@@ -3408,7 +3408,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLA-Razred",
-    "cena_stevilka": "19.990",
+    "cena_stevilka": "19990",
     "prevozenih_km": "128506",
     "kWh": null,
     "prostornina": "2143",
@@ -3421,7 +3421,7 @@
   {
     "znamka": "Fiat",
     "model": "500",
-    "cena_stevilka": "6.980",
+    "cena_stevilka": "6980",
     "prevozenih_km": "111450",
     "kWh": null,
     "prostornina": "1242",
@@ -3434,7 +3434,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "19.980",
+    "cena_stevilka": "19980",
     "prevozenih_km": "98161",
     "kWh": null,
     "prostornina": "1968",
@@ -3460,7 +3460,7 @@
   {
     "znamka": "Škoda",
     "model": "Enyaq",
-    "cena_stevilka": "49.967",
+    "cena_stevilka": "49967",
     "prevozenih_km": null,
     "kWh": "210",
     "prostornina": null,
@@ -3499,7 +3499,7 @@
   {
     "znamka": "Nissan",
     "model": "Micra",
-    "cena_stevilka": "8.390",
+    "cena_stevilka": "8390",
     "prevozenih_km": "118003",
     "kWh": null,
     "prostornina": "898",
@@ -3512,7 +3512,7 @@
   {
     "znamka": "Peugeot",
     "model": "308",
-    "cena_stevilka": "1.799",
+    "cena_stevilka": "1799",
     "prevozenih_km": "176000",
     "kWh": null,
     "prostornina": "1598",
@@ -3525,7 +3525,7 @@
   {
     "znamka": "Peugeot",
     "model": "508",
-    "cena_stevilka": "18.888",
+    "cena_stevilka": "18888",
     "prevozenih_km": "151700",
     "kWh": null,
     "prostornina": "1997",
@@ -3538,7 +3538,7 @@
   {
     "znamka": "Kia",
     "model": "Sportage",
-    "cena_stevilka": "28.999",
+    "cena_stevilka": "28999",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1598",
@@ -3551,7 +3551,7 @@
   {
     "znamka": "Nissan",
     "model": "Micra",
-    "cena_stevilka": "3.790",
+    "cena_stevilka": "3790",
     "prevozenih_km": "115024",
     "kWh": null,
     "prostornina": "1198",
@@ -3564,7 +3564,7 @@
   {
     "znamka": "Citroën",
     "model": "Xsara",
-    "cena_stevilka": "1.399",
+    "cena_stevilka": "1399",
     "prevozenih_km": "218000",
     "kWh": null,
     "prostornina": "1587",
@@ -3577,7 +3577,7 @@
   {
     "znamka": "Peugeot",
     "model": "2008",
-    "cena_stevilka": "14.690",
+    "cena_stevilka": "14690",
     "prevozenih_km": "49463",
     "kWh": null,
     "prostornina": "1199",
@@ -3603,7 +3603,7 @@
   {
     "znamka": "Opel",
     "model": "Combo",
-    "cena_stevilka": "4.500",
+    "cena_stevilka": "4500",
     "prevozenih_km": "151000",
     "kWh": null,
     "prostornina": "1368",
@@ -3616,7 +3616,7 @@
   {
     "znamka": "Kia",
     "model": "Sportage",
-    "cena_stevilka": "30.999",
+    "cena_stevilka": "30999",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1598",
@@ -3629,7 +3629,7 @@
   {
     "znamka": "Citroën",
     "model": "C4",
-    "cena_stevilka": "6.750",
+    "cena_stevilka": "6750",
     "prevozenih_km": "182000",
     "kWh": null,
     "prostornina": "1560",
@@ -3642,7 +3642,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLC-Razred",
-    "cena_stevilka": "56.198",
+    "cena_stevilka": "56198",
     "prevozenih_km": "100",
     "kWh": null,
     "prostornina": "1993",
@@ -3668,7 +3668,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "17.990",
+    "cena_stevilka": "17990",
     "prevozenih_km": "149000",
     "kWh": null,
     "prostornina": "1984",
@@ -3681,7 +3681,7 @@
   {
     "znamka": "Porsche",
     "model": "Cayenne",
-    "cena_stevilka": "68.780",
+    "cena_stevilka": "68780",
     "prevozenih_km": "125000",
     "kWh": null,
     "prostornina": "2896",
@@ -3707,7 +3707,7 @@
   {
     "znamka": "Peugeot",
     "model": "208",
-    "cena_stevilka": "10.790",
+    "cena_stevilka": "10790",
     "prevozenih_km": "46710",
     "kWh": null,
     "prostornina": "1199",
@@ -3720,7 +3720,7 @@
   {
     "znamka": "Renault",
     "model": "R",
-    "cena_stevilka": "1.500",
+    "cena_stevilka": "1500",
     "prevozenih_km": "99000",
     "kWh": null,
     "prostornina": "1108",
@@ -3746,7 +3746,7 @@
   {
     "znamka": "Citroën",
     "model": "Berlingo",
-    "cena_stevilka": "7.900",
+    "cena_stevilka": "7900",
     "prevozenih_km": "170000",
     "kWh": null,
     "prostornina": "1560",
@@ -3759,7 +3759,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "E-Razred",
-    "cena_stevilka": "66.890",
+    "cena_stevilka": "66890",
     "prevozenih_km": "51234",
     "kWh": null,
     "prostornina": "1993",
@@ -3772,7 +3772,7 @@
   {
     "znamka": "Peugeot",
     "model": "508",
-    "cena_stevilka": "13.900",
+    "cena_stevilka": "13900",
     "prevozenih_km": "125000",
     "kWh": null,
     "prostornina": "1500",
@@ -3785,7 +3785,7 @@
   {
     "znamka": "Seat",
     "model": "Ibiza",
-    "cena_stevilka": "15.600",
+    "cena_stevilka": "15600",
     "prevozenih_km": "3500",
     "kWh": null,
     "prostornina": "999",
@@ -3798,7 +3798,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "15.880",
+    "cena_stevilka": "15880",
     "prevozenih_km": "157799",
     "kWh": null,
     "prostornina": "1968",
@@ -3811,7 +3811,7 @@
   {
     "znamka": "BMW",
     "model": "serija X2:",
-    "cena_stevilka": "19.980",
+    "cena_stevilka": "19980",
     "prevozenih_km": "116796",
     "kWh": null,
     "prostornina": "1995",
@@ -3824,7 +3824,7 @@
   {
     "znamka": "Hyundai",
     "model": "Kona",
-    "cena_stevilka": "13.850",
+    "cena_stevilka": "13850",
     "prevozenih_km": "88242",
     "kWh": null,
     "prostornina": "998",
@@ -3837,7 +3837,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "30.353",
+    "cena_stevilka": "30353",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1498",
@@ -3850,7 +3850,7 @@
   {
     "znamka": "Toyota",
     "model": "Verso",
-    "cena_stevilka": "7.590",
+    "cena_stevilka": "7590",
     "prevozenih_km": "187000",
     "kWh": null,
     "prostornina": "1598",
@@ -3863,7 +3863,7 @@
   {
     "znamka": "Audi",
     "model": "A6",
-    "cena_stevilka": "16.900",
+    "cena_stevilka": "16900",
     "prevozenih_km": "187863",
     "kWh": null,
     "prostornina": "1968",
@@ -3876,7 +3876,7 @@
   {
     "znamka": "Hyundai",
     "model": "Tucson",
-    "cena_stevilka": "13.990",
+    "cena_stevilka": "13990",
     "prevozenih_km": "131000",
     "kWh": null,
     "prostornina": "1685",
@@ -3915,7 +3915,7 @@
   {
     "znamka": "Ford",
     "model": "Focus",
-    "cena_stevilka": "15.490",
+    "cena_stevilka": "15490",
     "prevozenih_km": "93170",
     "kWh": null,
     "prostornina": "999",
@@ -3928,7 +3928,7 @@
   {
     "znamka": "Volvo",
     "model": "XC90",
-    "cena_stevilka": "27.500",
+    "cena_stevilka": "27500",
     "prevozenih_km": "200000",
     "kWh": null,
     "prostornina": "1969",
@@ -3941,7 +3941,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "13.990",
+    "cena_stevilka": "13990",
     "prevozenih_km": "189000",
     "kWh": null,
     "prostornina": "1968",
@@ -3967,7 +3967,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "B-Razred",
-    "cena_stevilka": "15.550",
+    "cena_stevilka": "15550",
     "prevozenih_km": "196720",
     "kWh": null,
     "prostornina": "1950",
@@ -3980,7 +3980,7 @@
   {
     "znamka": "Renault",
     "model": "Megane",
-    "cena_stevilka": "10.450",
+    "cena_stevilka": "10450",
     "prevozenih_km": "135485",
     "kWh": null,
     "prostornina": "1461",
@@ -3993,7 +3993,7 @@
   {
     "znamka": "Hyundai",
     "model": "Bayon",
-    "cena_stevilka": "23.080",
+    "cena_stevilka": "23080",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "998",
@@ -4019,7 +4019,7 @@
   {
     "znamka": "Hyundai",
     "model": "Tucson",
-    "cena_stevilka": "22.499",
+    "cena_stevilka": "22499",
     "prevozenih_km": "91401",
     "kWh": null,
     "prostornina": "1598",
@@ -4045,7 +4045,7 @@
   {
     "znamka": "Opel",
     "model": "Astra",
-    "cena_stevilka": "7.900",
+    "cena_stevilka": "7900",
     "prevozenih_km": "198500",
     "kWh": null,
     "prostornina": "1598",
@@ -4058,7 +4058,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "24.700",
+    "cena_stevilka": "24700",
     "prevozenih_km": "183400",
     "kWh": null,
     "prostornina": "2143",
@@ -4071,7 +4071,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Tayron",
-    "cena_stevilka": "53.900",
+    "cena_stevilka": "53900",
     "prevozenih_km": "13000",
     "kWh": null,
     "prostornina": "1968",
@@ -4084,7 +4084,7 @@
   {
     "znamka": "Renault",
     "model": "Captur",
-    "cena_stevilka": "11.700",
+    "cena_stevilka": "11700",
     "prevozenih_km": "64000",
     "kWh": null,
     "prostornina": "1197",
@@ -4097,7 +4097,7 @@
   {
     "znamka": "Renault",
     "model": "Megane",
-    "cena_stevilka": "2.290",
+    "cena_stevilka": "2290",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1598",
@@ -4110,7 +4110,7 @@
   {
     "znamka": "Seat",
     "model": "Leon",
-    "cena_stevilka": "1.990",
+    "cena_stevilka": "1990",
     "prevozenih_km": "145000",
     "kWh": null,
     "prostornina": "1390",
@@ -4123,7 +4123,7 @@
   {
     "znamka": "Volvo",
     "model": "V90",
-    "cena_stevilka": "14.680",
+    "cena_stevilka": "14680",
     "prevozenih_km": "235000",
     "kWh": null,
     "prostornina": "1969",
@@ -4136,7 +4136,7 @@
   {
     "znamka": "Škoda",
     "model": "Kamiq",
-    "cena_stevilka": "12.780",
+    "cena_stevilka": "12780",
     "prevozenih_km": "153873",
     "kWh": null,
     "prostornina": "999",
@@ -4149,7 +4149,7 @@
   {
     "znamka": "Renault",
     "model": "Clio",
-    "cena_stevilka": "1.500",
+    "cena_stevilka": "1500",
     "prevozenih_km": "244982",
     "kWh": null,
     "prostornina": "1149",
@@ -4162,7 +4162,7 @@
   {
     "znamka": "Škoda",
     "model": "Kamiq",
-    "cena_stevilka": "19.850",
+    "cena_stevilka": "19850",
     "prevozenih_km": "78500",
     "kWh": null,
     "prostornina": "999",
@@ -4305,7 +4305,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "22.480",
+    "cena_stevilka": "22480",
     "prevozenih_km": "150126",
     "kWh": null,
     "prostornina": "1968",
@@ -4318,7 +4318,7 @@
   {
     "znamka": "BMW",
     "model": "serija 6",
-    "cena_stevilka": "26.980",
+    "cena_stevilka": "26980",
     "prevozenih_km": "142771",
     "kWh": null,
     "prostornina": "2979",
@@ -4331,7 +4331,7 @@
   {
     "znamka": "BMW",
     "model": "serija 2",
-    "cena_stevilka": "13.990",
+    "cena_stevilka": "13990",
     "prevozenih_km": "157646",
     "kWh": null,
     "prostornina": "1496",
@@ -4357,7 +4357,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Touran",
-    "cena_stevilka": "16.950",
+    "cena_stevilka": "16950",
     "prevozenih_km": "195000",
     "kWh": null,
     "prostornina": "1968",
@@ -4370,7 +4370,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3:",
-    "cena_stevilka": "29.990",
+    "cena_stevilka": "29990",
     "prevozenih_km": "119893",
     "kWh": null,
     "prostornina": "1995",
@@ -4383,7 +4383,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "17.700",
+    "cena_stevilka": "17700",
     "prevozenih_km": "250000",
     "kWh": null,
     "prostornina": "1984",
@@ -4396,7 +4396,7 @@
   {
     "znamka": "Renault",
     "model": "Clio",
-    "cena_stevilka": "7.500",
+    "cena_stevilka": "7500",
     "prevozenih_km": "195010",
     "kWh": null,
     "prostornina": "1461",
@@ -4409,7 +4409,7 @@
   {
     "znamka": "Renault",
     "model": "Captur",
-    "cena_stevilka": "21.178",
+    "cena_stevilka": "21178",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "999",
@@ -4422,7 +4422,7 @@
   {
     "znamka": "Porsche",
     "model": "Panamera",
-    "cena_stevilka": "69.999",
+    "cena_stevilka": "69999",
     "prevozenih_km": "69096",
     "kWh": null,
     "prostornina": "2894",
@@ -4435,7 +4435,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "16.480",
+    "cena_stevilka": "16480",
     "prevozenih_km": "177200",
     "kWh": null,
     "prostornina": "1597",
@@ -4448,7 +4448,7 @@
   {
     "znamka": "Land",
     "model": "Rover",
-    "cena_stevilka": "16.999",
+    "cena_stevilka": "16999",
     "prevozenih_km": "170009",
     "kWh": null,
     "prostornina": "1999",
@@ -4461,7 +4461,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "15.480",
+    "cena_stevilka": "15480",
     "prevozenih_km": "245000",
     "kWh": null,
     "prostornina": "2143",
@@ -4474,7 +4474,7 @@
   {
     "znamka": "Renault",
     "model": "Megane",
-    "cena_stevilka": "1.500",
+    "cena_stevilka": "1500",
     "prevozenih_km": "188000",
     "kWh": null,
     "prostornina": "1390",
@@ -4487,7 +4487,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "9.850",
+    "cena_stevilka": "9850",
     "prevozenih_km": "65000",
     "kWh": null,
     "prostornina": "1199",
@@ -4513,7 +4513,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "A-Razred",
-    "cena_stevilka": "10.290",
+    "cena_stevilka": "10290",
     "prevozenih_km": "162000",
     "kWh": null,
     "prostornina": "1595",
@@ -4552,7 +4552,7 @@
   {
     "znamka": "Seat",
     "model": "Arona",
-    "cena_stevilka": "15.950",
+    "cena_stevilka": "15950",
     "prevozenih_km": "23000",
     "kWh": null,
     "prostornina": "999",
@@ -4565,7 +4565,7 @@
   {
     "znamka": "BMW",
     "model": "serija 4",
-    "cena_stevilka": "44.990",
+    "cena_stevilka": "44990",
     "prevozenih_km": "57701",
     "kWh": null,
     "prostornina": "1990",
@@ -4578,7 +4578,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "SL-Razred",
-    "cena_stevilka": "21.000",
+    "cena_stevilka": "21000",
     "prevozenih_km": "90500",
     "kWh": null,
     "prostornina": "3498",
@@ -4591,7 +4591,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "29.990",
+    "cena_stevilka": "29990",
     "prevozenih_km": null,
     "kWh": "83",
     "prostornina": null,
@@ -4604,7 +4604,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "14.990",
+    "cena_stevilka": "14990",
     "prevozenih_km": "176000",
     "kWh": null,
     "prostornina": "1995",
@@ -4617,7 +4617,7 @@
   {
     "znamka": "Toyota",
     "model": "Land",
-    "cena_stevilka": "51.490",
+    "cena_stevilka": "51490",
     "prevozenih_km": "139000",
     "kWh": null,
     "prostornina": "2755",
@@ -4630,7 +4630,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "12.950",
+    "cena_stevilka": "12950",
     "prevozenih_km": "239000",
     "kWh": null,
     "prostornina": "1968",
@@ -4656,7 +4656,7 @@
   {
     "znamka": "Citroën",
     "model": "C4",
-    "cena_stevilka": "1.290",
+    "cena_stevilka": "1290",
     "prevozenih_km": "190000",
     "kWh": null,
     "prostornina": "1587",
@@ -4669,7 +4669,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "10.490",
+    "cena_stevilka": "10490",
     "prevozenih_km": "72000",
     "kWh": null,
     "prostornina": "1199",
@@ -4708,7 +4708,7 @@
   {
     "znamka": "Audi",
     "model": "A8",
-    "cena_stevilka": "49.999",
+    "cena_stevilka": "49999",
     "prevozenih_km": "104138",
     "kWh": null,
     "prostornina": "2995",
@@ -4721,7 +4721,7 @@
   {
     "znamka": "Audi",
     "model": "A6",
-    "cena_stevilka": "17.499",
+    "cena_stevilka": "17499",
     "prevozenih_km": "194000",
     "kWh": null,
     "prostornina": "2967",
@@ -4734,7 +4734,7 @@
   {
     "znamka": "Renault",
     "model": "Clio",
-    "cena_stevilka": "11.000",
+    "cena_stevilka": "11000",
     "prevozenih_km": "82200",
     "kWh": null,
     "prostornina": "999",
@@ -4747,7 +4747,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "5.850",
+    "cena_stevilka": "5850",
     "prevozenih_km": "214000",
     "kWh": null,
     "prostornina": "1390",
@@ -4760,7 +4760,7 @@
   {
     "znamka": "BMW",
     "model": "serija X3:",
-    "cena_stevilka": "61.880",
+    "cena_stevilka": "61880",
     "prevozenih_km": "3980",
     "kWh": null,
     "prostornina": "1998",
@@ -4773,7 +4773,7 @@
   {
     "znamka": "Ford",
     "model": "Focus",
-    "cena_stevilka": "8.990",
+    "cena_stevilka": "8990",
     "prevozenih_km": "82000",
     "kWh": null,
     "prostornina": "999",
@@ -4786,7 +4786,7 @@
   {
     "znamka": "Kia",
     "model": "Sportage",
-    "cena_stevilka": "28.999",
+    "cena_stevilka": "28999",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1598",
@@ -4799,7 +4799,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "9.490",
+    "cena_stevilka": "9490",
     "prevozenih_km": "85000",
     "kWh": null,
     "prostornina": "1499",
@@ -4825,7 +4825,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "56.880",
+    "cena_stevilka": "56880",
     "prevozenih_km": "25480",
     "kWh": null,
     "prostornina": "1995",
@@ -4838,7 +4838,7 @@
   {
     "znamka": "Porsche",
     "model": "Cayenne",
-    "cena_stevilka": "29.950",
+    "cena_stevilka": "29950",
     "prevozenih_km": "195000",
     "kWh": null,
     "prostornina": "2967",
@@ -4864,7 +4864,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "13.990",
+    "cena_stevilka": "13990",
     "prevozenih_km": "177000",
     "kWh": null,
     "prostornina": "1995",
@@ -4890,7 +4890,7 @@
   {
     "znamka": "Jeep",
     "model": "Grand",
-    "cena_stevilka": "26.890",
+    "cena_stevilka": "26890",
     "prevozenih_km": "176000",
     "kWh": null,
     "prostornina": "2987",
@@ -4916,7 +4916,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "16.400",
+    "cena_stevilka": "16400",
     "prevozenih_km": "176000",
     "kWh": null,
     "prostornina": "1968",
@@ -4929,7 +4929,7 @@
   {
     "znamka": "KG",
     "model": "Mobility",
-    "cena_stevilka": "29.999",
+    "cena_stevilka": "29999",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1497",
@@ -4942,7 +4942,7 @@
   {
     "znamka": "Audi",
     "model": "A7",
-    "cena_stevilka": "21.950",
+    "cena_stevilka": "21950",
     "prevozenih_km": "188000",
     "kWh": null,
     "prostornina": "2967",
@@ -4955,7 +4955,7 @@
   {
     "znamka": "Renault",
     "model": "Austral",
-    "cena_stevilka": "30.900",
+    "cena_stevilka": "30900",
     "prevozenih_km": "4",
     "kWh": null,
     "prostornina": "1333",
@@ -4968,7 +4968,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "B-Razred",
-    "cena_stevilka": "15.450",
+    "cena_stevilka": "15450",
     "prevozenih_km": "169654",
     "kWh": null,
     "prostornina": "1461",
@@ -4981,7 +4981,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "17.900",
+    "cena_stevilka": "17900",
     "prevozenih_km": "21800",
     "kWh": null,
     "prostornina": "1498",
@@ -5683,7 +5683,7 @@
   {
     "znamka": "Toyota",
     "model": "RAV4",
-    "cena_stevilka": "24.490",
+    "cena_stevilka": "24490",
     "prevozenih_km": "122391",
     "kWh": null,
     "prostornina": "2494",
@@ -5696,7 +5696,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "17.690",
+    "cena_stevilka": "17690",
     "prevozenih_km": "190000",
     "kWh": null,
     "prostornina": "1968",
@@ -5709,7 +5709,7 @@
   {
     "znamka": "Škoda",
     "model": "Citigo",
-    "cena_stevilka": "4.390",
+    "cena_stevilka": "4390",
     "prevozenih_km": "161168",
     "kWh": null,
     "prostornina": "999",
@@ -5722,7 +5722,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "17.500",
+    "cena_stevilka": "17500",
     "prevozenih_km": "127115",
     "kWh": null,
     "prostornina": "1968",
@@ -5735,7 +5735,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5:",
-    "cena_stevilka": "20.950",
+    "cena_stevilka": "20950",
     "prevozenih_km": "172224",
     "kWh": null,
     "prostornina": "1995",
@@ -5761,7 +5761,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "28.999",
+    "cena_stevilka": "28999",
     "prevozenih_km": "82000",
     "kWh": null,
     "prostornina": "1995",
@@ -5774,7 +5774,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Tiguan",
-    "cena_stevilka": "26.490",
+    "cena_stevilka": "26490",
     "prevozenih_km": "106000",
     "kWh": null,
     "prostornina": "1498",
@@ -5787,7 +5787,7 @@
   {
     "znamka": "Ford",
     "model": "Kuga",
-    "cena_stevilka": "12.800",
+    "cena_stevilka": "12800",
     "prevozenih_km": "138000",
     "kWh": null,
     "prostornina": "1997",
@@ -5800,7 +5800,7 @@
   {
     "znamka": "Ford",
     "model": "C-Max",
-    "cena_stevilka": "1.000",
+    "cena_stevilka": "1000",
     "prevozenih_km": "215000",
     "kWh": null,
     "prostornina": "1596",
@@ -5813,7 +5813,7 @@
   {
     "znamka": "Ford",
     "model": "Focus",
-    "cena_stevilka": "5.900",
+    "cena_stevilka": "5900",
     "prevozenih_km": "135000",
     "kWh": null,
     "prostornina": "1560",
@@ -5826,7 +5826,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "15.000",
+    "cena_stevilka": "15000",
     "prevozenih_km": "160000",
     "kWh": null,
     "prostornina": "1968",
@@ -5839,7 +5839,7 @@
   {
     "znamka": "Citroën",
     "model": "Berlingo",
-    "cena_stevilka": "16.850",
+    "cena_stevilka": "16850",
     "prevozenih_km": "56640",
     "kWh": null,
     "prostornina": "1199",
@@ -5852,7 +5852,7 @@
   {
     "znamka": "Peugeot",
     "model": "308",
-    "cena_stevilka": "6.490",
+    "cena_stevilka": "6490",
     "prevozenih_km": "158000",
     "kWh": null,
     "prostornina": "1560",
@@ -5865,7 +5865,7 @@
   {
     "znamka": "Audi",
     "model": "A3",
-    "cena_stevilka": "11.499",
+    "cena_stevilka": "11499",
     "prevozenih_km": "159000",
     "kWh": null,
     "prostornina": "1798",
@@ -5878,7 +5878,7 @@
   {
     "znamka": "Renault",
     "model": "Twingo",
-    "cena_stevilka": "12.490",
+    "cena_stevilka": "12490",
     "prevozenih_km": "20424",
     "kWh": "60",
     "prostornina": null,
@@ -5891,7 +5891,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Touran",
-    "cena_stevilka": "21.350",
+    "cena_stevilka": "21350",
     "prevozenih_km": "82000",
     "kWh": null,
     "prostornina": "1968",
@@ -5904,7 +5904,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Multivan",
-    "cena_stevilka": "55.990",
+    "cena_stevilka": "55990",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1968",
@@ -5917,7 +5917,7 @@
   {
     "znamka": "Audi",
     "model": "Q3",
-    "cena_stevilka": "29.850",
+    "cena_stevilka": "29850",
     "prevozenih_km": "64000",
     "kWh": null,
     "prostornina": "1968",
@@ -5930,7 +5930,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "15.300",
+    "cena_stevilka": "15300",
     "prevozenih_km": "225000",
     "kWh": null,
     "prostornina": "1968",
@@ -5943,7 +5943,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "10.990",
+    "cena_stevilka": "10990",
     "prevozenih_km": "180136",
     "kWh": null,
     "prostornina": "1598",
@@ -5956,7 +5956,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Touran",
-    "cena_stevilka": "7.100",
+    "cena_stevilka": "7100",
     "prevozenih_km": "208000",
     "kWh": null,
     "prostornina": "1598",
@@ -5969,7 +5969,7 @@
   {
     "znamka": "Peugeot",
     "model": "5008",
-    "cena_stevilka": "18.490",
+    "cena_stevilka": "18490",
     "prevozenih_km": "152452",
     "kWh": null,
     "prostornina": "1499",
@@ -5982,7 +5982,7 @@
   {
     "znamka": "Renault",
     "model": "Clio",
-    "cena_stevilka": "6.790",
+    "cena_stevilka": "6790",
     "prevozenih_km": "84000",
     "kWh": null,
     "prostornina": "898",
@@ -5995,7 +5995,7 @@
   {
     "znamka": "Dacia",
     "model": "Sandero",
-    "cena_stevilka": "9.900",
+    "cena_stevilka": "9900",
     "prevozenih_km": "40000",
     "kWh": null,
     "prostornina": "898",
@@ -6008,7 +6008,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "28.000",
+    "cena_stevilka": "28000",
     "prevozenih_km": "159000",
     "kWh": null,
     "prostornina": "1991",
@@ -6021,7 +6021,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Tiguan",
-    "cena_stevilka": "19.990",
+    "cena_stevilka": "19990",
     "prevozenih_km": "80000",
     "kWh": null,
     "prostornina": "1968",
@@ -6034,7 +6034,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Sharan",
-    "cena_stevilka": "13.945",
+    "cena_stevilka": "13945",
     "prevozenih_km": "239856",
     "kWh": null,
     "prostornina": "1968",
@@ -6047,7 +6047,7 @@
   {
     "znamka": "Citroën",
     "model": "Berlingo",
-    "cena_stevilka": "1.700",
+    "cena_stevilka": "1700",
     "prevozenih_km": "250000",
     "kWh": null,
     "prostornina": "1997",
@@ -6060,7 +6060,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Touran",
-    "cena_stevilka": "8.800",
+    "cena_stevilka": "8800",
     "prevozenih_km": "149000",
     "kWh": null,
     "prostornina": "1197",
@@ -6073,7 +6073,7 @@
   {
     "znamka": "Ford",
     "model": "Taurus",
-    "cena_stevilka": "2.200",
+    "cena_stevilka": "2200",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "2390",
@@ -6086,7 +6086,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "9.945",
+    "cena_stevilka": "9945",
     "prevozenih_km": "228563",
     "kWh": null,
     "prostornina": "1968",
@@ -6099,7 +6099,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "7.940",
+    "cena_stevilka": "7940",
     "prevozenih_km": "247852",
     "kWh": null,
     "prostornina": "1968",
@@ -6112,7 +6112,7 @@
   {
     "znamka": "Audi",
     "model": "RS6",
-    "cena_stevilka": "48.999",
+    "cena_stevilka": "48999",
     "prevozenih_km": "161000",
     "kWh": null,
     "prostornina": "3993",
@@ -6125,7 +6125,7 @@
   {
     "znamka": "Toyota",
     "model": "RAV4",
-    "cena_stevilka": "14.990",
+    "cena_stevilka": "14990",
     "prevozenih_km": "165000",
     "kWh": null,
     "prostornina": "1998",
@@ -6138,7 +6138,7 @@
   {
     "znamka": "Peugeot",
     "model": "5008",
-    "cena_stevilka": "2.800",
+    "cena_stevilka": "2800",
     "prevozenih_km": "220000",
     "kWh": null,
     "prostornina": "1560",
@@ -6151,7 +6151,7 @@
   {
     "znamka": "Škoda",
     "model": "Superb",
-    "cena_stevilka": "11.945",
+    "cena_stevilka": "11945",
     "prevozenih_km": "249856",
     "kWh": null,
     "prostornina": "1968",
@@ -6164,7 +6164,7 @@
   {
     "znamka": "Peugeot",
     "model": "2008",
-    "cena_stevilka": "8.500",
+    "cena_stevilka": "8500",
     "prevozenih_km": "60000",
     "kWh": null,
     "prostornina": "1199",
@@ -6177,7 +6177,7 @@
   {
     "znamka": "Fiat",
     "model": "500C",
-    "cena_stevilka": "6.990",
+    "cena_stevilka": "6990",
     "prevozenih_km": "119000",
     "kWh": null,
     "prostornina": "875",
@@ -6190,7 +6190,7 @@
   {
     "znamka": "Ford",
     "model": "Mondeo",
-    "cena_stevilka": "6.499",
+    "cena_stevilka": "6499",
     "prevozenih_km": "139700",
     "kWh": null,
     "prostornina": "1596",
@@ -6203,7 +6203,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "10.840",
+    "cena_stevilka": "10840",
     "prevozenih_km": "199321",
     "kWh": null,
     "prostornina": "1995",
@@ -6216,7 +6216,7 @@
   {
     "znamka": "Volkswagen",
     "model": "T-Roc",
-    "cena_stevilka": "17.495",
+    "cena_stevilka": "17495",
     "prevozenih_km": "76490",
     "kWh": null,
     "prostornina": "1598",
@@ -6229,7 +6229,7 @@
   {
     "znamka": "Audi",
     "model": "A3",
-    "cena_stevilka": "12.945",
+    "cena_stevilka": "12945",
     "prevozenih_km": "199741",
     "kWh": null,
     "prostornina": "1968",
@@ -6242,7 +6242,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "17.900",
+    "cena_stevilka": "17900",
     "prevozenih_km": "21800",
     "kWh": null,
     "prostornina": "1498",
@@ -6268,7 +6268,7 @@
   {
     "znamka": "Peugeot",
     "model": "5008",
-    "cena_stevilka": "21.900",
+    "cena_stevilka": "21900",
     "prevozenih_km": "135520",
     "kWh": null,
     "prostornina": "1499",
@@ -6294,7 +6294,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "13.200",
+    "cena_stevilka": "13200",
     "prevozenih_km": "160905",
     "kWh": null,
     "prostornina": "1395",
@@ -6320,7 +6320,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "22.190",
+    "cena_stevilka": "22190",
     "prevozenih_km": "120000",
     "kWh": null,
     "prostornina": "1968",
@@ -6333,7 +6333,7 @@
   {
     "znamka": "BMW",
     "model": "serija 1:",
-    "cena_stevilka": "15.677",
+    "cena_stevilka": "15677",
     "prevozenih_km": "152000",
     "kWh": null,
     "prostornina": "1496",
@@ -6372,7 +6372,7 @@
   {
     "znamka": "Audi",
     "model": "A3",
-    "cena_stevilka": "6.990",
+    "cena_stevilka": "6990",
     "prevozenih_km": "233250",
     "kWh": null,
     "prostornina": "1968",
@@ -6385,7 +6385,7 @@
   {
     "znamka": "Renault",
     "model": "Megane",
-    "cena_stevilka": "3.890",
+    "cena_stevilka": "3890",
     "prevozenih_km": "250000",
     "kWh": null,
     "prostornina": "1461",
@@ -6398,7 +6398,7 @@
   {
     "znamka": "Kia",
     "model": "EV3",
-    "cena_stevilka": "34.249",
+    "cena_stevilka": "34249",
     "prevozenih_km": null,
     "kWh": "150",
     "prostornina": null,
@@ -6411,7 +6411,7 @@
   {
     "znamka": "Audi",
     "model": "A6",
-    "cena_stevilka": "16.890",
+    "cena_stevilka": "16890",
     "prevozenih_km": "229000",
     "kWh": null,
     "prostornina": "1968",
@@ -6424,7 +6424,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "12.990",
+    "cena_stevilka": "12990",
     "prevozenih_km": "178000",
     "kWh": null,
     "prostornina": "1968",
@@ -6437,7 +6437,7 @@
   {
     "znamka": "Dacia",
     "model": "Sandero",
-    "cena_stevilka": "12.180",
+    "cena_stevilka": "12180",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "999",
@@ -6463,7 +6463,7 @@
   {
     "znamka": "Forthing",
     "model": "T5",
-    "cena_stevilka": "27.900",
+    "cena_stevilka": "27900",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1481",
@@ -6476,7 +6476,7 @@
   {
     "znamka": "BMW",
     "model": "serija 2",
-    "cena_stevilka": "7.200",
+    "cena_stevilka": "7200",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1995",
@@ -6489,7 +6489,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "32.500",
+    "cena_stevilka": "32500",
     "prevozenih_km": "110570",
     "kWh": null,
     "prostornina": "2993",
@@ -6502,7 +6502,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "22.300",
+    "cena_stevilka": "22300",
     "prevozenih_km": "163900",
     "kWh": null,
     "prostornina": "1995",
@@ -6515,7 +6515,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "A-Razred",
-    "cena_stevilka": "16.877",
+    "cena_stevilka": "16877",
     "prevozenih_km": "178000",
     "kWh": null,
     "prostornina": "2143",
@@ -6528,7 +6528,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Amarok",
-    "cena_stevilka": "27.990",
+    "cena_stevilka": "27990",
     "prevozenih_km": "225000",
     "kWh": null,
     "prostornina": "2967",
@@ -6541,7 +6541,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "16.550",
+    "cena_stevilka": "16550",
     "prevozenih_km": "150850",
     "kWh": null,
     "prostornina": "1968",
@@ -6554,7 +6554,7 @@
   {
     "znamka": "Forthing",
     "model": "T5",
-    "cena_stevilka": "28.900",
+    "cena_stevilka": "28900",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1498",
@@ -6580,7 +6580,7 @@
   {
     "znamka": "Ford",
     "model": "S-Max",
-    "cena_stevilka": "19.670",
+    "cena_stevilka": "19670",
     "prevozenih_km": "124000",
     "kWh": null,
     "prostornina": "1996",
@@ -6593,7 +6593,7 @@
   {
     "znamka": "Hyundai",
     "model": "ix20",
-    "cena_stevilka": "3.900",
+    "cena_stevilka": "3900",
     "prevozenih_km": "150000",
     "kWh": null,
     "prostornina": "1591",
@@ -6606,7 +6606,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Jetta",
-    "cena_stevilka": "5.470",
+    "cena_stevilka": "5470",
     "prevozenih_km": "227536",
     "kWh": null,
     "prostornina": "1598",
@@ -6619,7 +6619,7 @@
   {
     "znamka": "BMW",
     "model": "serija X1:",
-    "cena_stevilka": "21.890",
+    "cena_stevilka": "21890",
     "prevozenih_km": "161500",
     "kWh": null,
     "prostornina": "1995",
@@ -6632,7 +6632,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "A-Razred",
-    "cena_stevilka": "10.500",
+    "cena_stevilka": "10500",
     "prevozenih_km": "170000",
     "kWh": null,
     "prostornina": "1461",
@@ -6645,7 +6645,7 @@
   {
     "znamka": "Citroën",
     "model": "Berlingo",
-    "cena_stevilka": "19.950",
+    "cena_stevilka": "19950",
     "prevozenih_km": "46850",
     "kWh": null,
     "prostornina": "1499",
@@ -6658,7 +6658,7 @@
   {
     "znamka": "Opel",
     "model": "Corsa",
-    "cena_stevilka": "12.990",
+    "cena_stevilka": "12990",
     "prevozenih_km": "26412",
     "kWh": null,
     "prostornina": "1199",
@@ -6671,7 +6671,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "12.390",
+    "cena_stevilka": "12390",
     "prevozenih_km": "124650",
     "kWh": null,
     "prostornina": "1598",
@@ -6684,7 +6684,7 @@
   {
     "znamka": "Renault",
     "model": "Captur",
-    "cena_stevilka": "23.390",
+    "cena_stevilka": "23390",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1333",
@@ -6697,7 +6697,7 @@
   {
     "znamka": "Audi",
     "model": "Q3",
-    "cena_stevilka": "22.500",
+    "cena_stevilka": "22500",
     "prevozenih_km": "12000",
     "kWh": null,
     "prostornina": "1984",
@@ -6710,7 +6710,7 @@
   {
     "znamka": "Hyundai",
     "model": "i30",
-    "cena_stevilka": "17.990",
+    "cena_stevilka": "17990",
     "prevozenih_km": "35600",
     "kWh": null,
     "prostornina": "998",
@@ -6723,7 +6723,7 @@
   {
     "znamka": "Audi",
     "model": "A6",
-    "cena_stevilka": "33.990",
+    "cena_stevilka": "33990",
     "prevozenih_km": "156000",
     "kWh": null,
     "prostornina": "1984",
@@ -6736,7 +6736,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "11.900",
+    "cena_stevilka": "11900",
     "prevozenih_km": "242000",
     "kWh": null,
     "prostornina": "1968",
@@ -6762,7 +6762,7 @@
   {
     "znamka": "Zastava",
     "model": "750",
-    "cena_stevilka": "4.700",
+    "cena_stevilka": "4700",
     "prevozenih_km": "87667",
     "kWh": null,
     "prostornina": "676",
@@ -6775,7 +6775,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "11.990",
+    "cena_stevilka": "11990",
     "prevozenih_km": "184000",
     "kWh": null,
     "prostornina": "1968",
@@ -6788,7 +6788,7 @@
   {
     "znamka": "Kia",
     "model": "Sportage",
-    "cena_stevilka": "12.990",
+    "cena_stevilka": "12990",
     "prevozenih_km": "2010",
     "kWh": null,
     "prostornina": "1995",
@@ -6801,7 +6801,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "24.990",
+    "cena_stevilka": "24990",
     "prevozenih_km": "179000",
     "kWh": null,
     "prostornina": "2993",
@@ -6814,7 +6814,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "8.990",
+    "cena_stevilka": "8990",
     "prevozenih_km": "95000",
     "kWh": null,
     "prostornina": "1199",
@@ -6840,7 +6840,7 @@
   {
     "znamka": "Volvo",
     "model": "XC60",
-    "cena_stevilka": "28.999",
+    "cena_stevilka": "28999",
     "prevozenih_km": "136683",
     "kWh": null,
     "prostornina": "1969",
@@ -6853,7 +6853,7 @@
   {
     "znamka": "Seat",
     "model": "Arona",
-    "cena_stevilka": "11.190",
+    "cena_stevilka": "11190",
     "prevozenih_km": "147620",
     "kWh": null,
     "prostornina": "1598",
@@ -6866,7 +6866,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLA-Razred",
-    "cena_stevilka": "32.990",
+    "cena_stevilka": "32990",
     "prevozenih_km": "146515",
     "kWh": null,
     "prostornina": "1950",
@@ -6879,7 +6879,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "18.600",
+    "cena_stevilka": "18600",
     "prevozenih_km": "45900",
     "kWh": null,
     "prostornina": "1984",
@@ -6890,9 +6890,9 @@
     "baterija_kWh": null
   },
   {
-    "znamka": "Alfa",
-    "model": "Romeo",
-    "cena_stevilka": "33.990",
+    "znamka": "Alfa Romeo",
+    "model": "Stelvio",
+    "cena_stevilka": "33990",
     "prevozenih_km": "68000",
     "kWh": null,
     "prostornina": "2143",
@@ -6918,7 +6918,7 @@
   {
     "znamka": "BMW",
     "model": "serija X2:",
-    "cena_stevilka": "31.999",
+    "cena_stevilka": "31999",
     "prevozenih_km": "88146",
     "kWh": null,
     "prostornina": "1995",
@@ -6931,7 +6931,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "11.490",
+    "cena_stevilka": "11490",
     "prevozenih_km": "137429",
     "kWh": null,
     "prostornina": "1499",
@@ -6944,7 +6944,7 @@
   {
     "znamka": "Renault",
     "model": "Clio",
-    "cena_stevilka": "3.990",
+    "cena_stevilka": "3990",
     "prevozenih_km": "80793",
     "kWh": null,
     "prostornina": "1149",
@@ -6957,7 +6957,7 @@
   {
     "znamka": "Audi",
     "model": "A3",
-    "cena_stevilka": "16.990",
+    "cena_stevilka": "16990",
     "prevozenih_km": "186000",
     "kWh": null,
     "prostornina": "1968",
@@ -6970,7 +6970,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "14.000",
+    "cena_stevilka": "14000",
     "prevozenih_km": "246432",
     "kWh": null,
     "prostornina": "1968",
@@ -6983,7 +6983,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "13.350",
+    "cena_stevilka": "13350",
     "prevozenih_km": "184057",
     "kWh": null,
     "prostornina": "1598",
@@ -6996,7 +6996,7 @@
   {
     "znamka": "Hyundai",
     "model": "Bayon",
-    "cena_stevilka": "16.190",
+    "cena_stevilka": "16190",
     "prevozenih_km": "8900",
     "kWh": null,
     "prostornina": "1197",
@@ -7035,7 +7035,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "11.690",
+    "cena_stevilka": "11690",
     "prevozenih_km": "191420",
     "kWh": null,
     "prostornina": "1968",
@@ -7048,7 +7048,7 @@
   {
     "znamka": "Škoda",
     "model": "Superb",
-    "cena_stevilka": "16.499",
+    "cena_stevilka": "16499",
     "prevozenih_km": "217501",
     "kWh": null,
     "prostornina": "1968",
@@ -7061,7 +7061,7 @@
   {
     "znamka": "BMW",
     "model": "serija 4",
-    "cena_stevilka": "55.990",
+    "cena_stevilka": "55990",
     "prevozenih_km": "28500",
     "kWh": null,
     "prostornina": "2998",
@@ -7074,7 +7074,7 @@
   {
     "znamka": "Volkswagen",
     "model": "T-Roc",
-    "cena_stevilka": "29.500",
+    "cena_stevilka": "29500",
     "prevozenih_km": "5000",
     "kWh": null,
     "prostornina": "1498",
@@ -7087,7 +7087,7 @@
   {
     "znamka": "Audi",
     "model": "A6",
-    "cena_stevilka": "31.990",
+    "cena_stevilka": "31990",
     "prevozenih_km": "155501",
     "kWh": null,
     "prostornina": "1984",
@@ -7126,7 +7126,7 @@
   {
     "znamka": "Peugeot",
     "model": "207",
-    "cena_stevilka": "1.750",
+    "cena_stevilka": "1750",
     "prevozenih_km": "111960",
     "kWh": null,
     "prostornina": "1360",
@@ -7139,7 +7139,7 @@
   {
     "znamka": "Forthing",
     "model": "U-Tour",
-    "cena_stevilka": "32.500",
+    "cena_stevilka": "32500",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1481",
@@ -7152,7 +7152,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "S-Razred",
-    "cena_stevilka": "4.999",
+    "cena_stevilka": "4999",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "5461",
@@ -7165,7 +7165,7 @@
   {
     "znamka": "Škoda",
     "model": "Superb",
-    "cena_stevilka": "24.850",
+    "cena_stevilka": "24850",
     "prevozenih_km": "134874",
     "kWh": null,
     "prostornina": "1968",
@@ -7178,7 +7178,7 @@
   {
     "znamka": "Peugeot",
     "model": "3008",
-    "cena_stevilka": "14.970",
+    "cena_stevilka": "14970",
     "prevozenih_km": "129990",
     "kWh": null,
     "prostornina": "1499",
@@ -7204,7 +7204,7 @@
   {
     "znamka": "Renault",
     "model": "Espace",
-    "cena_stevilka": "17.990",
+    "cena_stevilka": "17990",
     "prevozenih_km": "179052",
     "kWh": null,
     "prostornina": "1997",
@@ -7217,7 +7217,7 @@
   {
     "znamka": "Renault",
     "model": "Grand",
-    "cena_stevilka": "10.490",
+    "cena_stevilka": "10490",
     "prevozenih_km": "120000",
     "kWh": null,
     "prostornina": "1198",
@@ -7230,7 +7230,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "22.950",
+    "cena_stevilka": "22950",
     "prevozenih_km": "170000",
     "kWh": null,
     "prostornina": "1995",
@@ -7243,7 +7243,7 @@
   {
     "znamka": "Kia",
     "model": "XCeed",
-    "cena_stevilka": "13.600",
+    "cena_stevilka": "13600",
     "prevozenih_km": "75000",
     "kWh": null,
     "prostornina": "998",
@@ -7282,7 +7282,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "21.000",
+    "cena_stevilka": "21000",
     "prevozenih_km": "135000",
     "kWh": null,
     "prostornina": "1984",
@@ -7295,7 +7295,7 @@
   {
     "znamka": "Fiat",
     "model": "500",
-    "cena_stevilka": "5.970",
+    "cena_stevilka": "5970",
     "prevozenih_km": "134000",
     "kWh": null,
     "prostornina": "1242",
@@ -7308,7 +7308,7 @@
   {
     "znamka": "Audi",
     "model": "A3",
-    "cena_stevilka": "16.990",
+    "cena_stevilka": "16990",
     "prevozenih_km": "174000",
     "kWh": null,
     "prostornina": "1968",
@@ -7321,7 +7321,7 @@
   {
     "znamka": "Tesla",
     "model": "Model",
-    "cena_stevilka": "22.000",
+    "cena_stevilka": "22000",
     "prevozenih_km": "91000",
     "kWh": "220",
     "prostornina": null,
@@ -7334,7 +7334,7 @@
   {
     "znamka": "Hyundai",
     "model": "i10",
-    "cena_stevilka": "16.430",
+    "cena_stevilka": "16430",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "998",
@@ -7347,7 +7347,7 @@
   {
     "znamka": "Renault",
     "model": "Megane",
-    "cena_stevilka": "3.950",
+    "cena_stevilka": "3950",
     "prevozenih_km": "173000",
     "kWh": null,
     "prostornina": "1870",
@@ -7360,7 +7360,7 @@
   {
     "znamka": "Opel",
     "model": "Astra",
-    "cena_stevilka": "1.250",
+    "cena_stevilka": "1250",
     "prevozenih_km": "233000",
     "kWh": null,
     "prostornina": "1686",
@@ -7386,7 +7386,7 @@
   {
     "znamka": "Kia",
     "model": "Pro_Ceed",
-    "cena_stevilka": "2.300",
+    "cena_stevilka": "2300",
     "prevozenih_km": "250000",
     "kWh": null,
     "prostornina": "1582",
@@ -7412,7 +7412,7 @@
   {
     "znamka": "Ford",
     "model": "Mondeo",
-    "cena_stevilka": "8.990",
+    "cena_stevilka": "8990",
     "prevozenih_km": "203000",
     "kWh": null,
     "prostornina": "1996",
@@ -7425,7 +7425,7 @@
   {
     "znamka": "Kia",
     "model": "Sportage",
-    "cena_stevilka": "8.590",
+    "cena_stevilka": "8590",
     "prevozenih_km": "198000",
     "kWh": null,
     "prostornina": "1685",
@@ -7438,7 +7438,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3:",
-    "cena_stevilka": "44.900",
+    "cena_stevilka": "44900",
     "prevozenih_km": "91921",
     "kWh": null,
     "prostornina": "2998",
@@ -7451,7 +7451,7 @@
   {
     "znamka": "Škoda",
     "model": "Kodiaq",
-    "cena_stevilka": "22.650",
+    "cena_stevilka": "22650",
     "prevozenih_km": "143211",
     "kWh": null,
     "prostornina": "1968",
@@ -7477,7 +7477,7 @@
   {
     "znamka": "Hyundai",
     "model": "i30",
-    "cena_stevilka": "5.990",
+    "cena_stevilka": "5990",
     "prevozenih_km": "138000",
     "kWh": null,
     "prostornina": "1396",
@@ -7490,7 +7490,7 @@
   {
     "znamka": "Fiat",
     "model": "500",
-    "cena_stevilka": "5.990",
+    "cena_stevilka": "5990",
     "prevozenih_km": "150000",
     "kWh": null,
     "prostornina": "1242",
@@ -7503,7 +7503,7 @@
   {
     "znamka": "BMW",
     "model": "serija X5:",
-    "cena_stevilka": "44.550",
+    "cena_stevilka": "44550",
     "prevozenih_km": "145083",
     "kWh": null,
     "prostornina": "2993",
@@ -7529,7 +7529,7 @@
   {
     "znamka": "Citroën",
     "model": "Berlingo",
-    "cena_stevilka": "6.200",
+    "cena_stevilka": "6200",
     "prevozenih_km": "172000",
     "kWh": null,
     "prostornina": "1560",
@@ -7555,7 +7555,7 @@
   {
     "znamka": "Ford",
     "model": "Focus",
-    "cena_stevilka": "13.999",
+    "cena_stevilka": "13999",
     "prevozenih_km": "144000",
     "kWh": null,
     "prostornina": "1497",
@@ -7581,7 +7581,7 @@
   {
     "znamka": "Hyundai",
     "model": "i30",
-    "cena_stevilka": "38.200",
+    "cena_stevilka": "38200",
     "prevozenih_km": "5300",
     "kWh": null,
     "prostornina": "1998",
@@ -7607,7 +7607,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "2.300",
+    "cena_stevilka": "2300",
     "prevozenih_km": "220000",
     "kWh": null,
     "prostornina": "1360",
@@ -7620,7 +7620,7 @@
   {
     "znamka": "Porsche",
     "model": "Cayenne",
-    "cena_stevilka": "41.980",
+    "cena_stevilka": "41980",
     "prevozenih_km": "131000",
     "kWh": null,
     "prostornina": "2980",
@@ -7633,7 +7633,7 @@
   {
     "znamka": "BMW",
     "model": "serija 4",
-    "cena_stevilka": "65.800",
+    "cena_stevilka": "65800",
     "prevozenih_km": "5400",
     "kWh": null,
     "prostornina": "2998",
@@ -7646,7 +7646,7 @@
   {
     "znamka": "Kia",
     "model": "Ceed",
-    "cena_stevilka": "20.549",
+    "cena_stevilka": "20549",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1482",
@@ -7657,9 +7657,9 @@
     "baterija_kWh": null
   },
   {
-    "znamka": "Alfa",
-    "model": "Romeo",
-    "cena_stevilka": "99.990",
+    "znamka": "Alfa Romeo",
+    "model": "4C",
+    "cena_stevilka": "99990",
     "prevozenih_km": "19000",
     "kWh": null,
     "prostornina": "1742",
@@ -7672,7 +7672,7 @@
   {
     "znamka": "Audi",
     "model": "SQ7",
-    "cena_stevilka": "39.000",
+    "cena_stevilka": "39000",
     "prevozenih_km": "156000",
     "kWh": null,
     "prostornina": "3956",
@@ -7698,7 +7698,7 @@
   {
     "znamka": "Cupra",
     "model": "Formentor",
-    "cena_stevilka": "23.800",
+    "cena_stevilka": "23800",
     "prevozenih_km": "45900",
     "kWh": null,
     "prostornina": "1984",
@@ -7711,7 +7711,7 @@
   {
     "znamka": "Ford",
     "model": "Focus",
-    "cena_stevilka": "4.990",
+    "cena_stevilka": "4990",
     "prevozenih_km": "144950",
     "kWh": null,
     "prostornina": "999",
@@ -7724,7 +7724,7 @@
   {
     "znamka": "Opel",
     "model": "Astra",
-    "cena_stevilka": "1.700",
+    "cena_stevilka": "1700",
     "prevozenih_km": "246000",
     "kWh": null,
     "prostornina": "1686",
@@ -7737,7 +7737,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "3.600",
+    "cena_stevilka": "3600",
     "prevozenih_km": "236000",
     "kWh": null,
     "prostornina": "1197",
@@ -7750,7 +7750,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "14.550",
+    "cena_stevilka": "14550",
     "prevozenih_km": "195000",
     "kWh": null,
     "prostornina": "1796",
@@ -7776,7 +7776,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLE",
-    "cena_stevilka": "75.000",
+    "cena_stevilka": "75000",
     "prevozenih_km": "115000",
     "kWh": null,
     "prostornina": "3982",
@@ -7789,7 +7789,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "13.990",
+    "cena_stevilka": "13990",
     "prevozenih_km": "213000",
     "kWh": null,
     "prostornina": "1968",
@@ -7802,7 +7802,7 @@
   {
     "znamka": "Peugeot",
     "model": "308",
-    "cena_stevilka": "6.990",
+    "cena_stevilka": "6990",
     "prevozenih_km": "130870",
     "kWh": null,
     "prostornina": "1560",
@@ -7815,7 +7815,7 @@
   {
     "znamka": "Chevrolet",
     "model": "Trax",
-    "cena_stevilka": "6.499",
+    "cena_stevilka": "6499",
     "prevozenih_km": "141000",
     "kWh": null,
     "prostornina": "1598",
@@ -7828,7 +7828,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5",
-    "cena_stevilka": "36.000",
+    "cena_stevilka": "36000",
     "prevozenih_km": "92000",
     "kWh": null,
     "prostornina": "1995",
@@ -7841,7 +7841,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLE-Razred",
-    "cena_stevilka": "45.900",
+    "cena_stevilka": "45900",
     "prevozenih_km": "187541",
     "kWh": null,
     "prostornina": "2925",
@@ -7867,7 +7867,7 @@
   {
     "znamka": "Kia",
     "model": "Stonic",
-    "cena_stevilka": "15.399",
+    "cena_stevilka": "15399",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1248",
@@ -7893,7 +7893,7 @@
   {
     "znamka": "Audi",
     "model": "A3",
-    "cena_stevilka": "19.490",
+    "cena_stevilka": "19490",
     "prevozenih_km": "215655",
     "kWh": null,
     "prostornina": "1968",
@@ -7906,7 +7906,7 @@
   {
     "znamka": "Jeep",
     "model": "Wrangler",
-    "cena_stevilka": "9.600",
+    "cena_stevilka": "9600",
     "prevozenih_km": "139731",
     "kWh": null,
     "prostornina": "2500",
@@ -7932,7 +7932,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "15.999",
+    "cena_stevilka": "15999",
     "prevozenih_km": "147000",
     "kWh": null,
     "prostornina": "1968",
@@ -7945,7 +7945,7 @@
   {
     "znamka": "Fiat",
     "model": "Punto",
-    "cena_stevilka": "1.999",
+    "cena_stevilka": "1999",
     "prevozenih_km": "129813",
     "kWh": null,
     "prostornina": "1242",
@@ -7958,7 +7958,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "18.990",
+    "cena_stevilka": "18990",
     "prevozenih_km": "123071",
     "kWh": null,
     "prostornina": "1598",
@@ -7984,7 +7984,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "18.590",
+    "cena_stevilka": "18590",
     "prevozenih_km": "98000",
     "kWh": null,
     "prostornina": "1597",
@@ -8634,7 +8634,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5:",
-    "cena_stevilka": "64.980",
+    "cena_stevilka": "64980",
     "prevozenih_km": "42870",
     "kWh": null,
     "prostornina": "4395",
@@ -8660,7 +8660,7 @@
   {
     "znamka": "Fiat",
     "model": "Stilo",
-    "cena_stevilka": "5.499",
+    "cena_stevilka": "5499",
     "prevozenih_km": "136000",
     "kWh": null,
     "prostornina": "2446",
@@ -8686,7 +8686,7 @@
   {
     "znamka": "Audi",
     "model": "A4",
-    "cena_stevilka": "17.490",
+    "cena_stevilka": "17490",
     "prevozenih_km": "194600",
     "kWh": null,
     "prostornina": "2967",
@@ -8699,7 +8699,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Transporter",
-    "cena_stevilka": "18.900",
+    "cena_stevilka": "18900",
     "prevozenih_km": "178000",
     "kWh": null,
     "prostornina": "1968",
@@ -8725,7 +8725,7 @@
   {
     "znamka": "Škoda",
     "model": "Superb",
-    "cena_stevilka": "29.990",
+    "cena_stevilka": "29990",
     "prevozenih_km": "138420",
     "kWh": null,
     "prostornina": "1968",
@@ -8738,7 +8738,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "6.950",
+    "cena_stevilka": "6950",
     "prevozenih_km": "242000",
     "kWh": null,
     "prostornina": "1598",
@@ -8751,7 +8751,7 @@
   {
     "znamka": "BMW",
     "model": "M4",
-    "cena_stevilka": "85.990",
+    "cena_stevilka": "85990",
     "prevozenih_km": "47000",
     "kWh": null,
     "prostornina": "2993",
@@ -8764,7 +8764,7 @@
   {
     "znamka": "Kia",
     "model": "Ceed",
-    "cena_stevilka": "24.499",
+    "cena_stevilka": "24499",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1482",
@@ -8777,7 +8777,7 @@
   {
     "znamka": "Kia",
     "model": "Sportage",
-    "cena_stevilka": "8.500",
+    "cena_stevilka": "8500",
     "prevozenih_km": "153391",
     "kWh": null,
     "prostornina": "1685",
@@ -8790,7 +8790,7 @@
   {
     "znamka": "Audi",
     "model": "A5",
-    "cena_stevilka": "36.901",
+    "cena_stevilka": "36901",
     "prevozenih_km": "149000",
     "kWh": null,
     "prostornina": "2990",
@@ -8803,7 +8803,7 @@
   {
     "znamka": "Ford",
     "model": "Focus",
-    "cena_stevilka": "13.588",
+    "cena_stevilka": "13588",
     "prevozenih_km": "162788",
     "kWh": null,
     "prostornina": "2000",
@@ -8816,7 +8816,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "23.800",
+    "cena_stevilka": "23800",
     "prevozenih_km": "70000",
     "kWh": null,
     "prostornina": "1968",
@@ -8829,7 +8829,7 @@
   {
     "znamka": "Škoda",
     "model": "Kodiaq",
-    "cena_stevilka": "30.500",
+    "cena_stevilka": "30500",
     "prevozenih_km": "106600",
     "kWh": null,
     "prostornina": "1968",
@@ -8842,7 +8842,7 @@
   {
     "znamka": "Porsche",
     "model": "Cayenne",
-    "cena_stevilka": "83.990",
+    "cena_stevilka": "83990",
     "prevozenih_km": "106000",
     "kWh": null,
     "prostornina": "3996",
@@ -8855,7 +8855,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "7.490",
+    "cena_stevilka": "7490",
     "prevozenih_km": "209000",
     "kWh": null,
     "prostornina": "1598",
@@ -8868,7 +8868,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "C-Razred",
-    "cena_stevilka": "14.990",
+    "cena_stevilka": "14990",
     "prevozenih_km": "248200",
     "kWh": null,
     "prostornina": "2143",
@@ -8894,7 +8894,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "11.450",
+    "cena_stevilka": "11450",
     "prevozenih_km": "171000",
     "kWh": null,
     "prostornina": "1984",
@@ -8907,7 +8907,7 @@
   {
     "znamka": "Land",
     "model": "Rover",
-    "cena_stevilka": "10.990",
+    "cena_stevilka": "10990",
     "prevozenih_km": "217000",
     "kWh": null,
     "prostornina": "2179",
@@ -8920,7 +8920,7 @@
   {
     "znamka": "Volvo",
     "model": "V60",
-    "cena_stevilka": "17.880",
+    "cena_stevilka": "17880",
     "prevozenih_km": "179300",
     "kWh": null,
     "prostornina": "1969",
@@ -8933,7 +8933,7 @@
   {
     "znamka": "Renault",
     "model": "Scenic",
-    "cena_stevilka": "1.650",
+    "cena_stevilka": "1650",
     "prevozenih_km": "194000",
     "kWh": null,
     "prostornina": "1598",
@@ -8972,7 +8972,7 @@
   {
     "znamka": "Land",
     "model": "Rover",
-    "cena_stevilka": "15.000",
+    "cena_stevilka": "15000",
     "prevozenih_km": "191300",
     "kWh": null,
     "prostornina": "1999",
@@ -8985,7 +8985,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "28.890",
+    "cena_stevilka": "28890",
     "prevozenih_km": "110857",
     "kWh": null,
     "prostornina": "1968",
@@ -8998,7 +8998,7 @@
   {
     "znamka": "Peugeot",
     "model": "308",
-    "cena_stevilka": "6.490",
+    "cena_stevilka": "6490",
     "prevozenih_km": "230000",
     "kWh": null,
     "prostornina": "1997",
@@ -9024,7 +9024,7 @@
   {
     "znamka": "Audi",
     "model": "A3",
-    "cena_stevilka": "17.550",
+    "cena_stevilka": "17550",
     "prevozenih_km": "182234",
     "kWh": null,
     "prostornina": "999",
@@ -9037,7 +9037,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "V-Razred",
-    "cena_stevilka": "47.990",
+    "cena_stevilka": "47990",
     "prevozenih_km": "140000",
     "kWh": null,
     "prostornina": "2143",
@@ -9050,7 +9050,7 @@
   {
     "znamka": "Toyota",
     "model": "C-HR",
-    "cena_stevilka": "25.000",
+    "cena_stevilka": "25000",
     "prevozenih_km": "22694",
     "kWh": null,
     "prostornina": "1798",
@@ -9063,7 +9063,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Touran",
-    "cena_stevilka": "16.950",
+    "cena_stevilka": "16950",
     "prevozenih_km": "199000",
     "kWh": null,
     "prostornina": "1968",
@@ -9076,7 +9076,7 @@
   {
     "znamka": "Škoda",
     "model": "Kamiq",
-    "cena_stevilka": "14.850",
+    "cena_stevilka": "14850",
     "prevozenih_km": "52340",
     "kWh": null,
     "prostornina": "999",
@@ -9089,7 +9089,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3:",
-    "cena_stevilka": "24.999",
+    "cena_stevilka": "24999",
     "prevozenih_km": "143000",
     "kWh": null,
     "prostornina": "1998",
@@ -9102,7 +9102,7 @@
   {
     "znamka": "Renault",
     "model": "Clio",
-    "cena_stevilka": "7.950",
+    "cena_stevilka": "7950",
     "prevozenih_km": "185242",
     "kWh": null,
     "prostornina": "1461",
@@ -9141,7 +9141,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Multivan",
-    "cena_stevilka": "56.490",
+    "cena_stevilka": "56490",
     "prevozenih_km": "5000",
     "kWh": null,
     "prostornina": "1997",
@@ -9154,7 +9154,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "E-Razred",
-    "cena_stevilka": "36.880",
+    "cena_stevilka": "36880",
     "prevozenih_km": "92586",
     "kWh": null,
     "prostornina": "1950",
@@ -9167,7 +9167,7 @@
   {
     "znamka": "Renault",
     "model": "Captur",
-    "cena_stevilka": "7.600",
+    "cena_stevilka": "7600",
     "prevozenih_km": "105000",
     "kWh": null,
     "prostornina": "898",
@@ -9180,7 +9180,7 @@
   {
     "znamka": "Ford",
     "model": "Ranger",
-    "cena_stevilka": "22.900",
+    "cena_stevilka": "22900",
     "prevozenih_km": "66000",
     "kWh": null,
     "prostornina": "2277",
@@ -9193,7 +9193,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Passat",
-    "cena_stevilka": "13.490",
+    "cena_stevilka": "13490",
     "prevozenih_km": "234053",
     "kWh": null,
     "prostornina": "1968",
@@ -9219,7 +9219,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLS-Razred",
-    "cena_stevilka": "35.990",
+    "cena_stevilka": "35990",
     "prevozenih_km": "183000",
     "kWh": null,
     "prostornina": "2987",
@@ -9232,7 +9232,7 @@
   {
     "znamka": "Peugeot",
     "model": "208",
-    "cena_stevilka": "3.900",
+    "cena_stevilka": "3900",
     "prevozenih_km": "179814",
     "kWh": null,
     "prostornina": "1199",
@@ -9245,7 +9245,7 @@
   {
     "znamka": "Hyundai",
     "model": "Kona",
-    "cena_stevilka": "15.990",
+    "cena_stevilka": "15990",
     "prevozenih_km": "110845",
     "kWh": null,
     "prostornina": "1598",
@@ -9258,7 +9258,7 @@
   {
     "znamka": "Audi",
     "model": "RS4",
-    "cena_stevilka": "67.000",
+    "cena_stevilka": "67000",
     "prevozenih_km": "86000",
     "kWh": null,
     "prostornina": "2894",
@@ -9284,7 +9284,7 @@
   {
     "znamka": "Citroën",
     "model": "Berlingo",
-    "cena_stevilka": "10.999",
+    "cena_stevilka": "10999",
     "prevozenih_km": "179000",
     "kWh": null,
     "prostornina": "1499",
@@ -9310,7 +9310,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Golf",
-    "cena_stevilka": "7.990",
+    "cena_stevilka": "7990",
     "prevozenih_km": "179891",
     "kWh": null,
     "prostornina": "1598",
@@ -9323,7 +9323,7 @@
   {
     "znamka": "Opel",
     "model": "Insignia",
-    "cena_stevilka": "9.200",
+    "cena_stevilka": "9200",
     "prevozenih_km": "171000",
     "kWh": null,
     "prostornina": "1956",
@@ -9336,7 +9336,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "15.300",
+    "cena_stevilka": "15300",
     "prevozenih_km": "167000",
     "kWh": null,
     "prostornina": "1968",
@@ -9349,7 +9349,7 @@
   {
     "znamka": "Hyundai",
     "model": "Tucson",
-    "cena_stevilka": "13.590",
+    "cena_stevilka": "13590",
     "prevozenih_km": "214275",
     "kWh": null,
     "prostornina": "1685",
@@ -9362,7 +9362,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "2.799",
+    "cena_stevilka": "2799",
     "prevozenih_km": "204000",
     "kWh": null,
     "prostornina": "1398",
@@ -9375,7 +9375,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "6.599",
+    "cena_stevilka": "6599",
     "prevozenih_km": "247000",
     "kWh": null,
     "prostornina": "1995",
@@ -9388,7 +9388,7 @@
   {
     "znamka": "Zastava",
     "model": "-",
-    "cena_stevilka": "10.000",
+    "cena_stevilka": "10000",
     "prevozenih_km": "4000",
     "kWh": null,
     "prostornina": "1764",
@@ -9401,7 +9401,7 @@
   {
     "znamka": "Citroën",
     "model": "C4",
-    "cena_stevilka": "3.990",
+    "cena_stevilka": "3990",
     "prevozenih_km": "91000",
     "kWh": null,
     "prostornina": "1598",
@@ -9414,7 +9414,7 @@
   {
     "znamka": "Opel",
     "model": "Meriva",
-    "cena_stevilka": "1.999",
+    "cena_stevilka": "1999",
     "prevozenih_km": "128000",
     "kWh": null,
     "prostornina": "1686",
@@ -9427,7 +9427,7 @@
   {
     "znamka": "Land",
     "model": "Rover",
-    "cena_stevilka": "1.200",
+    "cena_stevilka": "1200",
     "prevozenih_km": "130",
     "kWh": null,
     "prostornina": "2497",
@@ -9440,7 +9440,7 @@
   {
     "znamka": "Peugeot",
     "model": "Rifter",
-    "cena_stevilka": "11.490",
+    "cena_stevilka": "11490",
     "prevozenih_km": "241127",
     "kWh": null,
     "prostornina": "1499",
@@ -9453,7 +9453,7 @@
   {
     "znamka": "Land",
     "model": "Rover",
-    "cena_stevilka": "36.710",
+    "cena_stevilka": "36710",
     "prevozenih_km": "198976",
     "kWh": null,
     "prostornina": "2993",
@@ -9466,7 +9466,7 @@
   {
     "znamka": "Renault",
     "model": "Clio",
-    "cena_stevilka": "7.790",
+    "cena_stevilka": "7790",
     "prevozenih_km": "174608",
     "kWh": null,
     "prostornina": "898",
@@ -9479,7 +9479,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Caddy",
-    "cena_stevilka": "20.300",
+    "cena_stevilka": "20300",
     "prevozenih_km": "60000",
     "kWh": null,
     "prostornina": "1968",
@@ -9492,7 +9492,7 @@
   {
     "znamka": "Fiat",
     "model": "Bravo",
-    "cena_stevilka": "2.990",
+    "cena_stevilka": "2990",
     "prevozenih_km": "191000",
     "kWh": null,
     "prostornina": "1368",
@@ -9531,7 +9531,7 @@
   {
     "znamka": "Audi",
     "model": "Q5",
-    "cena_stevilka": "26.590",
+    "cena_stevilka": "26590",
     "prevozenih_km": "162224",
     "kWh": null,
     "prostornina": "1968",
@@ -9544,7 +9544,7 @@
   {
     "znamka": "Opel",
     "model": "Corsa",
-    "cena_stevilka": "1.750",
+    "cena_stevilka": "1750",
     "prevozenih_km": "135000",
     "kWh": null,
     "prostornina": "1229",
@@ -9557,7 +9557,7 @@
   {
     "znamka": "Škoda",
     "model": "Superb",
-    "cena_stevilka": "15.950",
+    "cena_stevilka": "15950",
     "prevozenih_km": "170540",
     "kWh": null,
     "prostornina": "1968",
@@ -9583,7 +9583,7 @@
   {
     "znamka": "Mazda",
     "model": "CX-5",
-    "cena_stevilka": "15.700",
+    "cena_stevilka": "15700",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "2191",
@@ -9596,7 +9596,7 @@
   {
     "znamka": "Renault",
     "model": "Captur",
-    "cena_stevilka": "7.999",
+    "cena_stevilka": "7999",
     "prevozenih_km": "84209",
     "kWh": null,
     "prostornina": "898",
@@ -9609,7 +9609,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Tiguan",
-    "cena_stevilka": "23.995",
+    "cena_stevilka": "23995",
     "prevozenih_km": "150421",
     "kWh": null,
     "prostornina": "1968",
@@ -9622,7 +9622,7 @@
   {
     "znamka": "Volvo",
     "model": "V40",
-    "cena_stevilka": "11.995",
+    "cena_stevilka": "11995",
     "prevozenih_km": "126420",
     "kWh": null,
     "prostornina": "1969",
@@ -9635,7 +9635,7 @@
   {
     "znamka": "Seat",
     "model": "Arona",
-    "cena_stevilka": "11.995",
+    "cena_stevilka": "11995",
     "prevozenih_km": "89487",
     "kWh": null,
     "prostornina": "999",
@@ -9648,7 +9648,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "29.499",
+    "cena_stevilka": "29499",
     "prevozenih_km": "21045",
     "kWh": null,
     "prostornina": "1498",
@@ -9661,7 +9661,7 @@
   {
     "znamka": "Peugeot",
     "model": "208",
-    "cena_stevilka": "15.690",
+    "cena_stevilka": "15690",
     "prevozenih_km": "14382",
     "kWh": null,
     "prostornina": "1199",
@@ -9687,7 +9687,7 @@
   {
     "znamka": "Citroën",
     "model": "C4",
-    "cena_stevilka": "12.790",
+    "cena_stevilka": "12790",
     "prevozenih_km": "74500",
     "kWh": null,
     "prostornina": "1199",
@@ -9700,7 +9700,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "GLE-Razred",
-    "cena_stevilka": "52.790",
+    "cena_stevilka": "52790",
     "prevozenih_km": "80122",
     "kWh": null,
     "prostornina": "1991",
@@ -9726,7 +9726,7 @@
   {
     "znamka": "Renault",
     "model": "Grand",
-    "cena_stevilka": "4.500",
+    "cena_stevilka": "4500",
     "prevozenih_km": "67773",
     "kWh": null,
     "prostornina": "1149",
@@ -9739,7 +9739,7 @@
   {
     "znamka": "Kia",
     "model": "Stonic",
-    "cena_stevilka": "16.099",
+    "cena_stevilka": "16099",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1248",
@@ -9752,7 +9752,7 @@
   {
     "znamka": "Audi",
     "model": "Q5",
-    "cena_stevilka": "33.970",
+    "cena_stevilka": "33970",
     "prevozenih_km": "133859",
     "kWh": null,
     "prostornina": "1968",
@@ -9765,7 +9765,7 @@
   {
     "znamka": "Volkswagen",
     "model": "Multivan",
-    "cena_stevilka": "32.990",
+    "cena_stevilka": "32990",
     "prevozenih_km": "168000",
     "kWh": null,
     "prostornina": "1968",
@@ -9791,7 +9791,7 @@
   {
     "znamka": "Mercedes-Benz",
     "model": "A-Razred",
-    "cena_stevilka": "27.350",
+    "cena_stevilka": "27350",
     "prevozenih_km": "143400",
     "kWh": null,
     "prostornina": "1950",
@@ -9804,7 +9804,7 @@
   {
     "znamka": "Škoda",
     "model": "Octavia",
-    "cena_stevilka": "32.990",
+    "cena_stevilka": "32990",
     "prevozenih_km": "75000",
     "kWh": null,
     "prostornina": "1968",
@@ -9817,7 +9817,7 @@
   {
     "znamka": "BMW",
     "model": "serija 3",
-    "cena_stevilka": "1.950",
+    "cena_stevilka": "1950",
     "prevozenih_km": "4000",
     "kWh": null,
     "prostornina": "1995",
@@ -9830,7 +9830,7 @@
   {
     "znamka": "Kia",
     "model": "Ceed",
-    "cena_stevilka": "22.299",
+    "cena_stevilka": "22299",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "1482",
@@ -9843,7 +9843,7 @@
   {
     "znamka": "Hyundai",
     "model": "i10",
-    "cena_stevilka": "15.740",
+    "cena_stevilka": "15740",
     "prevozenih_km": null,
     "kWh": null,
     "prostornina": "998",
@@ -9856,7 +9856,7 @@
   {
     "znamka": "BMW",
     "model": "serija 5:",
-    "cena_stevilka": "15.950",
+    "cena_stevilka": "15950",
     "prevozenih_km": "237000",
     "kWh": null,
     "prostornina": "1995",
@@ -9869,7 +9869,7 @@
   {
     "znamka": "Citroën",
     "model": "C3",
-    "cena_stevilka": "1.100",
+    "cena_stevilka": "1100",
     "prevozenih_km": "154438",
     "kWh": null,
     "prostornina": "1360",

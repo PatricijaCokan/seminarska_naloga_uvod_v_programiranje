@@ -162,12 +162,17 @@ def uredi_podatke(podrobni_podatki):
             model = oglas["ime"].split(" ")[1].strip()
             if model == "serija":
                 model = oglas["ime"].split(" ")[1].strip() + " " + oglas["ime"].split(" ")[2].strip()
+            if model == "Romeo":
+                znamka = "Alfa Romeo"
+                model = oglas["ime"].split(" ")[2].strip()
+            
         else:
             znamka = None
             model = None
             
         if "cena" in oglas:
             cena = oglas["cena"].replace(" €", "").strip()
+            cena = cena.replace(".", "")
         else:
             cena = None
             
