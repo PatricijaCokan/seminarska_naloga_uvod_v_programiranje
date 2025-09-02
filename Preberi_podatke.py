@@ -49,7 +49,8 @@ def main():
     oglasi_data = []
     for file in os.listdir("podatki"):
         oglasi_data = izlusci_oglas_iz_strani(file, oglasi_data)
-        urejani_oglasi = izlusci_podatke_iz_oglasov(oglasi_data)
+    urejani_oglasi = izlusci_podatke_iz_oglasov(oglasi_data)
+    urejani_oglasi = uredi_podatke(urejani_oglasi)
     pretvori_v_json_csv(urejani_oglasi)
 
 
@@ -129,7 +130,7 @@ def izlusci_podatke_iz_oglasov(oglasi_data):
         oglas_info_ocisceno = {}
         for key, value in oglas_info.items():  
             oglas_info_ocisceno[ocisti_besedilo(key)] = ocisti_besedilo(value)
-
+        
         urejani_oglasi.append(oglas_info_ocisceno)
 
     return urejani_oglasi
@@ -154,6 +155,94 @@ def ocisti_besedilo(besedilo):
     
     return besedilo
 
+def uredi_podatke(podrobni_podatki):
+    nov_podrobni_podatki = []
+    for oglas in podrobni_podatki:
+        if "ime" in oglas:
+            znamka = oglas["ime"].split(" ")[0].strip()
+            model = oglas["ime"].split(" ")[1].strip()
+            if model == "serija":
+                model = oglas["ime"].split(" ")[1].strip() + " " + oglas["ime"].split(" ")[2].strip()
+        else:
+            znamka = None
+            model = None
+            
+        if "cena" in oglas:
+            cena = oglas["cena"].replace(" €", "").strip()
+        else:
+            cena = None
+            
+        if "Prevoženih" in oglas:
+            prevozenih_km = oglas["Prevoženih"].replace(" km", "").strip()
+        else:
+            prevozenih_km = None
+            
+        if "motor" in oglas:
+            podatki_o_motorju = oglas["motor"].split(" ")
+            if len(podatki_o_motorju) == 2:
+                kWh = podatki_o_motorju[0].strip()
+                prostornina = None
+                KM = None
+                kW = None
+            else:
+                kWh = None
+                kW = podatki_o_motorju[2].strip()
+                prostornina = podatki_o_motorju[0].strip()
+                KM = podatki_o_motorju[5].strip()
+        else:
+            kWh = None
+            prostornina = None
+            KM = None
+            
+        if "gorivo" in oglas:
+            gorivo = oglas["gorivo"].split(" ")
+            gorivo = gorivo[0].strip()
+            match gorivo:
+                case "bencinski":
+                    gorivo = "bencin"
+                case "diesel":
+                    gorivo = "dizel"
+                case "hibridni":
+                    gorivo = "hibrid"
+                case "elektro":
+                    gorivo = "elektro"
+        else:
+            gorivo = None
+            
+        if "prva_registracija" in oglas:
+            prva_registracija = oglas["prva_registracija"].strip()
+        else:
+            prva_registracija = None
+            
+        if "menjalnik" in oglas:
+            menjalnik = oglas["menjalnik"].split(" ")[0].strip()
+            match menjalnik:
+                case "ročni":
+                    menjalnik = "ročni"
+                case "avtomatski":
+                    menjalnik = "avtomatski"
+        else:
+            menjalnik = None
+            
+        if "Baterija" in oglas:
+            baterija_kWh = oglas["Baterija"].split(" ")[0].strip()
+        else:
+            baterija_kWh = None
+            
+        nov_oglas = {}   
+        nov_oglas["znamka"] = znamka
+        nov_oglas["model"] = model
+        nov_oglas["cena_stevilka"] = cena
+        nov_oglas["prevozenih_km"] = prevozenih_km
+        nov_oglas["kWh"] = kWh
+        nov_oglas["prostornina"] = prostornina
+        nov_oglas["KM"] = KM
+        nov_oglas["gorivo"] = gorivo
+        nov_oglas["prva_registracija"] = prva_registracija
+        nov_oglas["menjalnik"] = menjalnik
+        nov_oglas["baterija_kWh"] = baterija_kWh
+        nov_podrobni_podatki.append(nov_oglas)
+    return nov_podrobni_podatki
 
 def pretvori_v_json_csv(podrobni_podatki):
 
@@ -162,17 +251,21 @@ def pretvori_v_json_csv(podrobni_podatki):
 
     with open('oglasi_avto.csv', 'w', newline='', encoding='utf-8') as f:
         writer = csv.writer(f)
-        writer.writerow(["Ime", "Cena", "Prva registracija", "Kilometrina", "Gorivo", "Menjalnik", "Motor"])
+        writer.writerow(["Znamka", "Model", "Cena_stevilka", "Prevozenih_km", "kWh", "Prostornina", "KM", "Gorivo", "Prva_registracija", "Menjalnik", "Baterija_kWh"])
         
         for oglas in podrobni_podatki:
             writer.writerow([
-                oglas.get("ime", ""),
-                oglas.get("cena", ""),
-                oglas.get("prva_registracija", ""),
-                oglas.get("kilometrina", ""),
+                oglas.get("znamka", ""),
+                oglas.get("model", ""),
+                oglas.get("cena_stevilka", ""),
+                oglas.get("prevozenih_km", ""),
+                oglas.get("kWh", ""),
+                oglas.get("prostornina", ""),
+                oglas.get("KM", ""),
                 oglas.get("gorivo", ""),
+                oglas.get("prva_registracija", ""),
                 oglas.get("menjalnik", ""),
-                oglas.get("motor", ""),
+                oglas.get("baterija_kWh", "")
             ])
 
 if __name__ == "__main__":
