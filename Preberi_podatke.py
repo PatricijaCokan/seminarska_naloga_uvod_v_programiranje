@@ -16,7 +16,6 @@ def main():
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1',
     }
-    stStrani = 1
     url = (
         "https://www.avto.net/Ads/results.asp?"
         "znamka=&model=&modelID=&tip=katerikoli%20tip&"
@@ -35,16 +34,16 @@ def main():
         "EQ9=100000002&EQ10=100000000&KAT=1010000000&PIA=&PIAzero=&"
         "PIAOut=&PSLO=&akcija=&paketgarancije=&broker=&prikazkategorije=&"
         "kategorija=&ONLvid=&ONLnak=&zaloga=&arhiv=&presort=&tipsort=&"
-        "stran=" + str(stStrani)
+        "stran="
     )
     
     print("Če ste podatke že brali iz spletne strani avto.net in želite podatke pripraviti za nadaljno obdelavo pritisnite 2\n"
           "Če podatkov še nimate in jih želite shraniti v mapo podatki pritisnite 1 (to lahko traja nekaj časa)")
     izbira = input("Vpišite številko: ")
     if izbira == "1":
-        for stStrani in range(1, 100):
-            preberi_podatke(url, stStrani, headers, folder="podatki")
-            stStrani += 1
+        for stStrani in range(1, 22):
+            url_strani = url + str(stStrani)
+            preberi_podatke(url_strani, stStrani, headers, folder="podatki")
 
     oglasi_data = []
     for file in os.listdir("podatki"):
@@ -57,6 +56,10 @@ def main():
 def preberi_podatke(url, stStrani, headers, folder="podatki"):
     if not os.path.exists(folder):
         os.makedirs(folder)
+    file = "Stran" + str(stStrani) + ".html"
+    if file in os.listdir(folder):
+        print(f"Stran {stStrani} je že shranjena. Ponovno branje bi morda lahko bilo neveljavno tako da stran preskočimo")
+        return True
     time.sleep(random.uniform(3, 7))  # Počakaj 3-7 sekund
     try:
         odgovor = requests.get(url, headers=headers)
@@ -65,10 +68,6 @@ def preberi_podatke(url, stStrani, headers, folder="podatki"):
         if velikost < 50000:  #manj kot 50KB = verjetno blokirana
             print(f"Stran {stStrani} je preveč majhna ({velikost} znakov), tako vemo da je bila verjetno blokirana")
             return False
-        file = "Stran" + str(stStrani) + ".html"
-        if file in os.listdir(folder):
-            print(f"Stran {stStrani} je že shranjena. Ponovno branje bi morda lahko bilo neveljavno tako da stran preskočimo")
-            return True
         with open(folder + "/" + file, "w", encoding="utf-8") as f:
             f.write(str(odgovor))
     except Exception as e:
@@ -101,7 +100,7 @@ def izlusci_podatke_iz_oglasov(oglasi_data):
             oglas_info['ime'] = naziv.get_text(strip=True)
         
         # Cena
-        cena = oglas.find('div', class_='GO-Results-Top-Price-TXT-Regular')
+        cena = oglas.find('div', class_='GO-Results-Price-TXT-Regular')
         if cena:
             oglas_info['cena'] = cena.get_text(strip=True)
         
@@ -172,8 +171,8 @@ def uredi_podatke(podrobni_podatki):
         else:
             cena = None
             
-        if "Prevoženih" in oglas:
-            prevozenih_km = oglas["Prevoženih"].replace(" km", "").strip()
+        if "kilometrina" in oglas:
+            prevozenih_km = oglas["kilometrina"].replace(" km", "").strip()
         else:
             prevozenih_km = None
             
@@ -228,7 +227,7 @@ def uredi_podatke(podrobni_podatki):
             baterija_kWh = oglas["Baterija"].split(" ")[0].strip()
         else:
             baterija_kWh = None
-            
+
         nov_oglas = {}   
         nov_oglas["znamka"] = znamka
         nov_oglas["model"] = model
