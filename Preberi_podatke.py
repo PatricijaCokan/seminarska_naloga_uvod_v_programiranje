@@ -7,8 +7,8 @@ import random
 import json
 import csv
 
-def main():
-    headers = {
+def main(): #glavna funkcija ki se izvaja ob zagonu programa
+    headers = { # headers za http zahtevek da ne dobimo blokirane strani
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36',
     'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
    'Accept-Language': 'sl-SI,sl;q=0.9,en;q=0.8',
@@ -16,7 +16,7 @@ def main():
     'Connection': 'keep-alive',
     'Upgrade-Insecure-Requests': '1',
     }
-    url = (
+    url = ( #url ki ga posodabljamo glede na st. strani ki jo dodajamo na konec url-ja
         "https://www.avto.net/Ads/results.asp?"
         "znamka=&model=&modelID=&tip=katerikoli%20tip&"
         "znamka2=&model2=&tip2=katerikoli%20tip&"
@@ -38,29 +38,31 @@ def main():
     )
     
     print("Če ste podatke že brali iz spletne strani avto.net in želite podatke pripraviti za nadaljno obdelavo pritisnite 2\n"
+          "-----------------------------"
           "Če podatkov še nimate in jih želite shraniti v mapo podatki pritisnite 1 (to lahko traja nekaj časa)")
-    izbira = input("Vpišite številko: ")
+    print("-----------------------------")
+    izbira = input("Vpišite številko: ") #glede na stevilko ki je bila izbrana ali na novo prenesemo strani in jih obdelamo ali pa samo uporabimo podatke ki smo jih že prebrali
     if izbira == "1":
-        for stStrani in range(1, 22):
+        for stStrani in range(1, 22): #najprej prenesemo vse strani
             url_strani = url + str(stStrani)
             preberi_podatke(url_strani, stStrani, headers, folder="podatki")
 
-    oglasi_data = []
-    for file in os.listdir("podatki"):
+    oglasi_data = [] 
+    for file in os.listdir("podatki"): #najprej najdemo vse oglase, nato iz teh oglasov pridobimo podatke in nato te podate uredimo
         oglasi_data = izlusci_oglas_iz_strani(file, oglasi_data)
-    urejani_oglasi = izlusci_podatke_iz_oglasov(oglasi_data)
+    urejani_oglasi = izlusci_podatke_iz_oglasov(oglasi_data) 
     urejani_oglasi = uredi_podatke(urejani_oglasi)
     pretvori_v_json_csv(urejani_oglasi)
 
 
-def preberi_podatke(url, stStrani, headers, folder="podatki"):
+def preberi_podatke(url, stStrani, headers, folder="podatki"): # ta funkcij prenese podatke iz spleta
     if not os.path.exists(folder):
         os.makedirs(folder)
-    file = "Stran" + str(stStrani) + ".html"
+    file = "Stran" + str(stStrani) + ".html" #najprej preverimo ali je stran že shranjena in če je jo preskočimo 
     if file in os.listdir(folder):
         print(f"Stran {stStrani} je že shranjena. Ponovno branje bi morda lahko bilo neveljavno tako da stran preskočimo")
         return True
-    time.sleep(random.uniform(3, 7))  # Počakaj 3-7 sekund
+    time.sleep(random.uniform(3, 7))  # Počakaj 3-7 sekund da ne bomo blokirani
     try:
         odgovor = requests.get(url, headers=headers)
         odgovor = BeautifulSoup(odgovor.content, "html.parser", from_encoding='utf-8')
@@ -76,7 +78,7 @@ def preberi_podatke(url, stStrani, headers, folder="podatki"):
     return True
 
 
-def izlusci_oglas_iz_strani(html_datoteka, oglasi_data):
+def izlusci_oglas_iz_strani(html_datoteka, oglasi_data): # ta funkcij iz strani izbere vse oglase in jih shrani v slovar seznam ki ga podamo ob klicu funkcije
 
     html_datoteka = os.path.join("podatki", html_datoteka)
     with open(html_datoteka, 'r', encoding='utf-8') as f:
@@ -89,7 +91,7 @@ def izlusci_oglas_iz_strani(html_datoteka, oglasi_data):
     return oglasi_data
 
 
-def izlusci_podatke_iz_oglasov(oglasi_data):
+def izlusci_podatke_iz_oglasov(oglasi_data): # ta funkcij iz oglasov izbere vse podatke in jih shrani v slovarje ki jih doda v seznam 
     urejani_oglasi = []
     for oglas in oglasi_data:
         oglas_info = {}
@@ -127,14 +129,14 @@ def izlusci_podatke_iz_oglasov(oglasi_data):
                     else:
                         oglas_info[kljuc] = vrednost
         oglas_info_ocisceno = {}
-        for key, value in oglas_info.items():  
+        for key, value in oglas_info.items():  # vsako vrednost v slovarjih očistimo da nimamo posebnih znakov ampak samo črke
             oglas_info_ocisceno[ocisti_besedilo(key)] = ocisti_besedilo(value)
         
         urejani_oglasi.append(oglas_info_ocisceno)
 
     return urejani_oglasi
 
-def ocisti_besedilo(besedilo):
+def ocisti_besedilo(besedilo): # to je funkcija ki se uporablja za čiščenje besedila
     if not besedilo:
         return besedilo
     zamenjave = {
@@ -154,7 +156,7 @@ def ocisti_besedilo(besedilo):
     
     return besedilo
 
-def uredi_podatke(podrobni_podatki):
+def uredi_podatke(podrobni_podatki): # ta funkcij gre čez vse slovarje s podatki in podatke preuredi tako da so bolj primerni za analizo+
     nov_podrobni_podatki = []
     for oglas in podrobni_podatki:
         if "ime" in oglas:
@@ -246,9 +248,9 @@ def uredi_podatke(podrobni_podatki):
         nov_oglas["menjalnik"] = menjalnik
         nov_oglas["baterija_kWh"] = baterija_kWh
         nov_podrobni_podatki.append(nov_oglas)
-    return nov_podrobni_podatki
+    return nov_podrobni_podatki # na koncu vrnemo nov seznam s prečiščenimi podatki
 
-def pretvori_v_json_csv(podrobni_podatki):
+def pretvori_v_json_csv(podrobni_podatki): #podatke spremenimo v dve datoteki json in csv
 
     with open('oglasi_podrobni.json', 'w', encoding='utf-8') as f:
         json.dump(podrobni_podatki, f, ensure_ascii=False, indent=2)
@@ -272,7 +274,7 @@ def pretvori_v_json_csv(podrobni_podatki):
                 oglas.get("baterija_kWh", "")
             ])
 
-if __name__ == "__main__":
+if __name__ == "__main__": # glavna funkcija ki se izvaja ob zagonu programa
     main()      
         
     
