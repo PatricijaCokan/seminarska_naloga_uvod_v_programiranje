@@ -2,8 +2,8 @@ OPIS PROJEKTA
 
 Projekt služi kot analiza podatkov o rabljenih avtomobilih na spletnem mestu avto.net. Podatke sem pridobila iz te spletne strani in jih analizirala s pomočjo pythona in različnih knjižnic za delo s podatki
 
-Največji izziv mi je pri projektu predstavljalo pridobivanje podatkov iz spletne strani avto.net. Že na začetu sem imela precej težav ker sem kot odgovor na http zahtevke dobivala neveljavne html strani ki so mi sporočala da me je stran blokirala. To težavo sem uspela v večji meri odpraviti tako da sem v http zahtevke dodala glavo (headers) in pa naključno čakanje med zahtevki kar je pripeljalo do veliko večjega števila uspešno pridobljenih html strani z oglasi. 
-S pomočjo python skripte Preberi_podatke.py sem podatke nato uredila in pripravila za analizo. Pri samem urejanju podatkov sem naletela na kar nekaj izivov preden mi je uspelo podatke pripeljati do točke kjer se mi je zdelo da so pripravljeni in urejeni.
+Največji izziv mi je pri projektu predstavljalo pridobivanje podatkov iz spletne strani avto.net. Že na začetu sem imela precej težav ker sem kot odgovor na http zahtevke dobivala neveljavne html strani, ki so mi sporočale da me je stran blokirala. To težavo sem uspela v večji meri odpraviti tako da sem v http zahtevke dodala glavo (headers) in pa naključno čakanje med zahtevki kar je pripeljalo do veliko večjega števila uspešno pridobljenih html strani z oglasi. 
+S pomočjo python skripte Preberi_podatke.py sem podatke nato uredila in pripravila za analizo. Pri samem urejanju podatkov sem naletela na kar nekaj izivov preden mi je uspelo podatke pripeljati do točke, kjer se mi je zdelo da so pripravljeni in urejeni.
 
 Podatki ki jih lahko najdete v oglasi_avto.csv in oglasi_podrobni.json datotekah so naslednji: 
 Znamka,Model,Cena_stevilka(cena avtomobila kot stevilo),Prevozenih_km,kWh (kilovatne ure),Prostornina(prostornina motorja),KM(konske moči),Gorivo(tip motorja),Prva_registracija,Menjalnik,Baterija_kWh(zmogljivost baterije, ta podatek je samo pri elektricnih motorjih)
